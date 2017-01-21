@@ -1,6 +1,9 @@
 ---
 title: Las Vegas Hotels
 author: Alexis Jackson
+header:
+  image: /assets/images/vegas.jpg
+  caption: "Mirage Hotel"
 categories:
   - Las Vegas
   - Hotels

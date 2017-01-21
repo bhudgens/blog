@@ -1,6 +1,9 @@
 ---
 title: Las Vegas Strip Buffets
 author: Alexis Jackson
+header:
+  image: /assets/images/vegas.jpg
+  caption: "Mirage Hotel"
 categories:
   - Las Vegas
 tags:
@@ -8,7 +11,7 @@ tags:
   - Buffets
 ---
 
-Whilst in Vegas, we decided to try a variety of buffets. One buffet on this list we visited when we were here this last June, but the experience was memorable enough that I've decided to note it here as well. 
+Whilst in Vegas, we decided to try a variety of buffets. One buffet on this list we visited when we were here this last June, but the experience was memorable enough that I've decided to note it here as well.
 
 ### Le Village Buffet at Paris Casino
 
