@@ -7,7 +7,6 @@ header:
 categories:
   - Las Vegas
 tags:
-  - Las Vegas
   - Buffets
 ---
 
