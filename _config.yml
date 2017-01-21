@@ -9,7 +9,7 @@
 locale                   : "en"
 title                    : "Chasing Sixty"
 title_separator          : "-"
-name                     : "Benjamin Hudgens / Alexis Jackson"
+name                     : "Benjamin Hudgens"
 description              : "Vandwelling Adventures"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -82,7 +82,7 @@ author:
   bio              : "VP of Sanitations in Software Engineering.  Professionally homeless and proficiently spontanious."
   location         : "Everywhere"
   email            :
-  uri              :
+  uri              : "http://chasingsixty.com"
   bitbucket        :
   codepen          :
   dribbble         :
