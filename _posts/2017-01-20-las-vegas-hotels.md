@@ -1,5 +1,6 @@
 ---
 title: Las Vegas Hotels
+author: Alexis Jackson
 categories:
   - Las Vegas
   - Hotels
