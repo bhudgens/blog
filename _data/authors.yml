@@ -1,0 +1,57 @@
+Benjamin Hudgens:
+  name: "Benjamin Hudgens"
+  uri: "http://chasingsixty.com"
+  bio: "VP of Sanitations in Software Engineering"
+  avatar: "/assets/images/bio-photo-2.jpg"
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           :
+  google_plus      :
+  keybase          :
+  instagram        :
+  lastfm           :
+  linkedin         :
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  steam            :
+  tumblr           :
+  twitter          :
+  vine             :
+  weibo            :
+  xing             :
+  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+
+
+Alexis Jackson:
+  name: "Alexis Jackson"
+  email:
+  bio: "I decided this is too personal"
+  avatar: "/assets/images/bio-photo.jpg"
+  twitter: 
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
+  facebook         :
+  foursquare       :
+  github           :
+  google_plus      :
+  keybase          :
+  instagram        :
+  lastfm           :
+  linkedin         :
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
+  steam            :
+  tumblr           :
+  twitter          :
+  vine             :
+  weibo            :
+  xing             :
+  youtube          : # "https://youtube.com/c/MichaelRoseDesign"

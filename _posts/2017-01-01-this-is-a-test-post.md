@@ -1,11 +1,18 @@
 ---
-title: This is a test post
+title: "Test"
+header:
+  image: /assets/images/home-splash.jpg
+  caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 categories:
-  - Tests
+  - Layout
+  - Uncategorized
 tags:
-  - Testing
+  - edge case
+  - featured image
+  - image
+  - layout
 ---
 
-# Just testing
+### Just testing
 
 This is a test
