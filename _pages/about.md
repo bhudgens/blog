@@ -6,16 +6,16 @@ author_profile: false
 header:
   overlay_color: '#5e616c'
   overlay_image: /assets/images/yosemite-sunset.jpg
-  caption: "Golden Gate Bridge"
+  caption: "Yosemite National Park"
 ---
 
 Welcome to image alignment! The best way to demonstrate the ebb and flow of the various image positioning options is to nestle them snuggly among an ocean of words. Grab a paddle and let's get started.
 
-![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/sequoia_selfie.jpg){: .align-center}
+![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/sequoia-selfie-small.jpg){: .align-center}
 
 The image above happens to be **centered**.
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/sequoia_selfie.jpg){: .align-left} The rest of this paragraph is filler for the sake of seeing the text wrap around the 150×150 image, which is **left aligned**.
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/sequoia-selfie-small.jpg){: .align-left} The rest of this paragraph is filler for the sake of seeing the text wrap around the 150×150 image, which is **left aligned**.
 
 As you can see the should be some space above, below, and to the right of the image. The text should not be creeping on the image. Creeping is just not right. Images need breathing room too. Let them speak like you words. Let them do their jobs without any hassle from the text. In about one more sentence here, we'll see that the text moves from the right of the image down below the image in seamless transition. Again, letting the do it's thing. Mission accomplished!
 
