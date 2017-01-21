@@ -1,4 +1,12 @@
-# Las Vegas Hotels
+---
+title: Las Vegas Hotels
+categories:
+  - Las Vegas
+  - Hotels
+tags:
+  - Las Vegas
+  - Hotels
+---
 
 ### Tuscany Hotel & Casino
 *January 11 - 14, 2017* 

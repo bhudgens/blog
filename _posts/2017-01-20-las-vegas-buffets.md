@@ -1,4 +1,11 @@
-# Las Vegas Casino Buffets
+---
+title: Las Vegas Strip Buffets
+categories:
+  - Las Vegas
+tags:
+  - Las Vegas
+  - Buffets
+---
 
 Whilst in Vegas, we decided to try a variety of buffets. One buffet on this list we visited when we were here this last June, but the experience was memorable enough that I've decided to note it here as well. 
 
