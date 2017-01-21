@@ -7,7 +7,7 @@ tags:
   - Buffets
 ---
 
-Whilst in Vegas, we decided to try a variety of buffets. One buffet on this list we visited when we were here this last June, but the experience was memorable enough that I've decided to note it here as well. 
+Whilst in Vegas, we decided to try a variety of buffets. One buffet on this list we visited when we were here this last June, but the experience was memorable enough that I've decided to note it here as well.
 
 ### Le Village Buffet at Paris Casino
 
@@ -16,7 +16,7 @@ Paris was easily number two for us, with a charming, quiet atmosphere and great 
 
 ### Cravings at the Mirage Casino
 
-This buffet was more in the middle of quality - not bad, not great. The food was all good, but nothing stood out as fantastic. Nor was anything terrible. Our waitress was excellent! She came by every 5 to 10 minutes to clear plates and see if we needed anything, and was very upbeat and positive. Drinks here are self serve which (would have come in handy at Paris), and your meal includes free tap beer and select wines. 
+This buffet was more in the middle of quality - not bad, not great. The food was all good, but nothing stood out as fantastic. Nor was anything terrible. Our waitress was excellent! She came by every 5 to 10 minutes to clear plates and see if we needed anything, and was very upbeat and positive. Drinks here are self serve which (would have come in handy at Paris), and your meal includes free tap beer and select wines.
 
 
 ### Wicked Spoon at Cosmopolitan
@@ -26,15 +26,14 @@ Wicked Spoon takes the cake for us on food quality out of the buffets we've visi
 
 ### The Buffet at Monte Carlo
 
-We visited this buffet while in Vegas in June, on a whim after playing BlackJack in the casino. There was no line and the dining area was pretty empty - which should have told us something considering it was dinner time. We sampled a fairly wide variety of dishes looking for something decent or worth eating. The prime rib was more like rubber than meat. The crab legs were all over cooked, and a lot of the meat was wasted. Gravies were bland and some of the food was even cold. Monte Carlo's buffet unfortunately is not one we'll be visiting again, nor would we recommend it. 
+We visited this buffet while in Vegas in June, on a whim after playing BlackJack in the casino. There was no line and the dining area was pretty empty - which should have told us something considering it was dinner time. We sampled a fairly wide variety of dishes looking for something decent or worth eating. The prime rib was more like rubber than meat. The crab legs were all over cooked, and a lot of the meat was wasted. Gravies were bland and some of the food was even cold. Monte Carlo's buffet unfortunately is not one we'll be visiting again, nor would we recommend it.
 
 ### Beach Cafe at Tropicana
 
-Beach Cafe got the best of us, in that it is only a buffet for breakfast (and a tiny one at that). We wondered over for dinner figuring it was worth a shot since it was within walking distance of our hotel, and found out that lunch and dinner are a la carte. This one wasn't terrible, and none of the food was bad, but I don't believe we'll go back. The chicken soup recommended to us was comparable to Campbell's, and the french dip sandwich was bland and depended too heavily on bland, watery gravy. They had a french toast item that was decent, but a little over the top for my taste (plus side was that it came with plenty of fresh berries!). 
+Beach Cafe got the best of us, in that it is only a buffet for breakfast (and a tiny one at that). We wondered over for dinner figuring it was worth a shot since it was within walking distance of our hotel, and found out that lunch and dinner are a la carte. This one wasn't terrible, and none of the food was bad, but I don't believe we'll go back. The chicken soup recommended to us was comparable to Campbell's, and the french dip sandwich was bland and depended too heavily on bland, watery gravy. They had a french toast item that was decent, but a little over the top for my taste (plus side was that it came with plenty of fresh berries!).
 
 
 ### General Tips
 
-- Rather than tipping at the register, tip cash at the table. We had some servers that deserved more than the typical 18% gratuity at the register, and some that barely earned the 18%. 
-- If going for a weekend brunch, try to beat the hangover and get there before 10AM. You still may have a decent wait, but it won't be two hours. No one wants to wait that long when they're hung over. 
-
+- Rather than tipping at the register, tip cash at the table. We had some servers that deserved more than the typical 18% gratuity at the register, and some that barely earned the 18%.
+- If going for a weekend brunch, try to beat the hangover and get there before 10AM. You still may have a decent wait, but it won't be two hours. No one wants to wait that long when they're hung over.

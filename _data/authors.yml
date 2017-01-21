@@ -1,8 +1,8 @@
 Benjamin Hudgens:
-  name: "Benjamin Hudgens"
-  uri: "http://chasingsixty.com"
-  bio: "VP of Sanitations in Software Engineering"
-  avatar: "/assets/images/bio-photo-2.jpg"
+  name             : "Benjamin Hudgens"
+  avatar           : "/assets/images/ben.jpg"
+  bio              : "VP of Sanitations in Software Engineering.  Professionally homeless and proficiently spontanious."
+  location         : "Everywhere"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -32,7 +32,7 @@ Alexis Jackson:
   email:
   bio: "I decided this is too personal"
   avatar: "/assets/images/bio-photo.jpg"
-  twitter: 
+  twitter:
   bitbucket        :
   codepen          :
   dribbble         :
