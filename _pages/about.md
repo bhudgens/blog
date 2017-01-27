@@ -1,23 +1,43 @@
 ---
 layout: splash
-title: "About Us"
+title: About Us
 permalink: /aboutus
 author_profile: false
 header:
   overlay_color: '#5e616c'
   overlay_image: /assets/images/yosemite-sunset.jpg
-  caption: "Yosemite National Park"
+  caption: Yosemite National Park
+categories:
+  - About Us
+tags:
+  - Jobs
+  - Reasons We Travel
+  - Vandwelling
 ---
+
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/california.jpg){: .align-left}
+
+My name is Benjamin and my goofy companion is Alex.  We are traveling full time for the next year.  We travel all over with a goal of chasing beautiful locations that are around sixty degrees.  Alex would prefer 110 degrees.  She is always cold.  I personally love when it's freezing but we've found a way to compromise.  
+
+We started as vandwellers but maintained our residences back home.  Technically, we're still staying in a van but we upgraded to a mini-motorhome.  Eventually our travels grew and we finally decided to get rid of our apartments and travel full time.  
+
+### Why did we start traveling?
+
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/sequoia-selfie-small.jpg){: .align-right}
+
+As you can see the should be some space above, below, and to the right of the image. The text should not be creeping on the image. Creeping is just not right. Images need breathing room too. Let them speak like you words. Let them do their jobs without any hassle from the text. In about one more sentence here, we'll see that the text moves from the right of the image down below the image in seamless transition. Again, letting the do it's thing. Mission accomplished!
+
+### What does Benjamin do for work?
+
+I've worked in several areas of the computer industry for almost twenty years.  I started in Network Engineering which naturally pathed into Unix Engineering.  I was a puppy then and garnered a passion for Software Development.  I've been blessed to work at some amazing companies through the years with smart people.  I've been accused more than once of being a workaholic.  This misunderstanding is because my work was really my hobby and I love the industry.  I've amassed a broad and senior bit of knowledge in disciplines all over the technology field.  I've held several senior roles through the years, but ultimately, my passion is Software Development.  
+
+I currently work at an amazing company that explores all sorts of fun ideas about how to use computers to optimize our business processes.  I still work many hours a day but the work can be done anywhere.  This freedom allows for the travel!
 
 Welcome to image alignment! The best way to demonstrate the ebb and flow of the various image positioning options is to nestle them snuggly among an ocean of words. Grab a paddle and let's get started.
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/sequoia-selfie-small.jpg){: .align-center}
 
-The image above happens to be **centered**.
-
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/sequoia-selfie-small.jpg){: .align-left} The rest of this paragraph is filler for the sake of seeing the text wrap around the 150×150 image, which is **left aligned**.
-
-As you can see the should be some space above, below, and to the right of the image. The text should not be creeping on the image. Creeping is just not right. Images need breathing room too. Let them speak like you words. Let them do their jobs without any hassle from the text. In about one more sentence here, we'll see that the text moves from the right of the image down below the image in seamless transition. Again, letting the do it's thing. Mission accomplished!
+The image above happens to be **centered**.
 
 And now for a **massively large image**. It also has **no alignment**.
 
@@ -29,7 +49,7 @@ The image above, though 1200px wide, should not overflow the content area. It sh
 
 And now we're going to shift things to the **right align**. Again, there should be plenty of room above, below, and to the left of the image. Just look at him there --- Hey guy! Way to rock that right side. I don't care what the left aligned image says, you look great. Don't let anyone else tell you differently.
 
-In just a bit here, you should see the text start to wrap below the right aligned image and settle in nicely. There should still be plenty of room and everything should be sitting pretty. Yeah --- Just like that. It never felt so good to be right.
+In just a bit here, you should see the text start to wrap below the right aligned image and settle in nicely. There should still be plenty of room and everything should be sitting pretty. Yeah --- Just like that. It never felt so good to be right.
 
 And just when you thought we were done, we're going to do them all over again with captions!
 
@@ -38,7 +58,7 @@ And just when you thought we were done, we're going to do them all over again wi
   <figcaption>Look at 580 x 300 getting some love.</figcaption>
 </figure>
 
-The figure above happens to be **centered**. The caption also has a link in it, just to see if it does anything funky.
+The figure above happens to be **centered**. The caption also has a link in it, just to see if it does anything funky.
 
 <figure style="width: 150px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/image-alignment-150x150.jpg" alt="">
