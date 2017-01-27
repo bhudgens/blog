@@ -19,7 +19,7 @@ tags:
 
 My name is Benjamin and my goofy companion is Alex.  We are traveling full time for the next year.  We travel all over with a goal of chasing beautiful locations that are around sixty degrees.  Alex would prefer 110 degrees.  She is always cold.  I personally love when it's freezing but we've found a way to compromise.  
 
-We started as vandwellers but maintained our residences back home.  Technically, we're still staying in a van but we upgraded to a mini-motorhome.  Eventually our travels grew and we finally decided to get rid of our apartments and travel full time.  
+We started as vandwellers but originally maintained a residence back home.  Eventually our trips grew longer and we finally decided to get rid of our apartments and travel full time.  Technically, we're still staying in a van but we upgraded to a mini-motorhome after a while.
 
 ### Why did we start traveling?
 
