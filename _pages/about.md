@@ -10,31 +10,36 @@ header:
 categories:
   - About Us
 tags:
-  - Jobs
-  - Reasons We Travel
-  - Vandwelling
+  - Employment
+  - Why we travel
 ---
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/california.jpg){: .align-left}
 
-My name is Benjamin and my goofy companion is Alex.  We are traveling full time for the next year.  We travel all over with a goal of chasing beautiful locations that are around sixty degrees.  Alex would prefer 110 degrees.  She is always cold.  I personally love when it's freezing but we've found a way to compromise.  
+My name is Benjamin and my goofy companion is Alex.  We are traveling full time for the next year.  We travel all over with a goal of chasing beautiful locations that are around sixty degrees.  Alex would prefer 110 degrees.  She is always cold.  I personally love when it's freezing but we've found a way to compromise.
 
-We started as vandwellers but originally maintained a residence back home.  Eventually our trips grew longer and we finally decided to get rid of our apartments and travel full time.  Technically, we're still staying in a van but we upgraded to a mini-motorhome after a while.
+We started as long-trip vandwellers but maintained a residence back home.  Eventually our trips grew longer and we finally decided to get rid of our apartments and travel full time.  Technically, we're still staying in a van but we upgraded to a mini-motorhome after a while.
 
 ### Why did we start traveling?
 
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/sequoia-selfie-small.jpg){: .align-right}
 
-As you can see the should be some space above, below, and to the right of the image. The text should not be creeping on the image. Creeping is just not right. Images need breathing room too. Let them speak like you words. Let them do their jobs without any hassle from the text. In about one more sentence here, we'll see that the text moves from the right of the image down below the image in seamless transition. Again, letting the do it's thing. Mission accomplished!
+There is not a super amazing story behind how we started.  I've spent of lifetime of **doing** whatever crazy thing comes to mind.  I've been a lake rat, trekked around on motorcycles, and randomly gone on all sorts of fun adventures.  In fact, I had owned a RV with the intention to travel many years ago.  It didn't work out like I expected and I eventually parted ways with that home.
+
+I kept mentioning my desire to go on random trips to Alex (she's always game) and finally we did it for a few weeks.  That's all it took.  I was hooked.  We dipped our toe in the water and I was addicted.  We continued to go on new trips and each time it became more enticing.  Finally, I decided I was not going to renew my apartment lease and I was going to do this full time.
 
 ### What does Benjamin do for work?
 
-I've worked in several areas of the computer industry for almost twenty years.  I started in Network Engineering which naturally pathed into Unix Engineering.  I was a puppy then and garnered a passion for Software Development.  I've been blessed to work at some amazing companies through the years with smart people.  I've been accused more than once of being a workaholic.  This misunderstanding is because my work was really my hobby and I love the industry.  I've amassed a broad and senior bit of knowledge in disciplines all over the technology field.  I've held several senior roles through the years, but ultimately, my passion is Software Development.  
+I've worked in several areas of the computer industry for almost twenty years.  I started in Network Engineering which naturally pathed into Unix Engineering.  I was a puppy then and garnered a passion for Software Development.  I've been blessed to work at some amazing companies through the years with smart people.  I've been accused more than once of being a workaholic.  This misunderstanding is because my work was really my hobby and I love the industry.  I've amassed a broad and senior bit of knowledge in disciplines all over the technology field.  I've held several senior roles through the years, but ultimately, my passion is Software Development.
 
 I currently work at an amazing company that explores all sorts of fun ideas about how to use computers to optimize our business processes.  I still work many hours a day but the work can be done anywhere.  This freedom allows for the travel!
 
-Welcome to image alignment! The best way to demonstrate the ebb and flow of the various image positioning options is to nestle them snuggly among an ocean of words. Grab a paddle and let's get started.
+### What does Alexis do for work?
 
+
+
+
+<!--
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/sequoia-selfie-small.jpg){: .align-center}
 
 The image above happens to be **centered**.
@@ -87,4 +92,4 @@ And now we're going to shift things to the **right align**. Again, there should 
 
 In just a bit here, you should see the text start to wrap below the right aligned image and settle in nicely. There should still be plenty of room and everything should be sitting pretty. Yeah --- Just like that. It never felt so good to be right.
 
-And that's a wrap, yo! You survived the tumultuous waters of alignment. Image alignment achievement unlocked!
+And that's a wrap, yo! You survived the tumultuous waters of alignment. Image alignment achievement unlocked!-->
