@@ -10,6 +10,7 @@ header:
 categories:
   - About Us
 tags:
+  - Hobbies
   - Employment
   - Why we travel
 ---
