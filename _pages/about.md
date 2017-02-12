@@ -29,9 +29,9 @@ There is not a super amazing story behind how we started.  I've spent of lifetim
 
 I kept mentioning my desire to go on random trips to Alex (she's always game) and finally we did it for a few weeks.  That's all it took.  I was hooked.  We dipped our toe in the water and I was addicted.  We continued to go on new trips and each time it became more enticing.  Finally, I decided I was not going to renew my apartment lease and I was going to do this full time.
 
-### What does Benjamin do for work?
-
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/bluemangroup.jpg){: .align-left}
+
+### What does Benjamin do for work?
 
 I've worked in several areas of the computer industry for almost twenty years.  I started in Network Engineering which naturally pathed into Unix Engineering.  I was a puppy then and garnered a passion for Software Development.  I've been blessed to work at some amazing companies through the years with smart people.  I've been accused more than once of being a workaholic.  This misunderstanding is because my work was really my hobby and I love the industry.  I've amassed a broad and senior bit of knowledge in disciplines all over the technology field.  I've held several senior roles through the years, but ultimately, my passion is Software Development.
 
