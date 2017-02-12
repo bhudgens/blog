@@ -2,7 +2,7 @@
 title: Water Leak in Van
 author: Alexis Jackson
 header:
-  image: /assets/images/welcome_to_cali.jpg
+  image: /assets/images/welcome_to_california.jpg
   caption:
 categories:
   - Road Bumps
@@ -10,17 +10,7 @@ tags:
   - Leak
 ---
 
-This was the first day we had good weather in Vegas, and we decided to take advantage of it to do our routine cleaning of the van. Tear down the bed, drop off laundry, and give it a good wash and vacuum.
-<!--
-TODO:
-
-    - Resize:
-
-      * welcome_to_cali.jpg
-      * back_seat_puddle.jpg
-      * truck_melting_snow.jpg
-
--->
+This was the first day we had good weather in Vegas, and we decided to take advantage of it to do our routine cleaning of the van.
 
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/back_seat_puddle.jpg){: .align-right}
 As we were moving our things around to fold up the bed and unfold the back seats (we stored it in the cargo area behind the back row of seats when not in use), we saw that a leak we thought we had gotten fixed a month prior was in fact, not fixed. The sheet we had hung to block out the back window was wet, the carpet of the floor under where the seats fold into was soaked, and some smaller cloth items left under it were also wet. Coming around the side of the van, we found that one of the seats also had an actual puddle of water in it. This being the first time we had unfolded the seats since hitting the road three weeks ago, we have no sure way of knowing just how long everything had been in this state, or just how bad the leak was. We also noticed that the back left seat was not latching down like it should when Ben used the buttons to unfold them, which concerned us.

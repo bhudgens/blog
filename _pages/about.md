@@ -17,7 +17,7 @@ tags:
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/california.jpg){: .align-left}
 
-My name is Benjamin and my goofy companion is Alex.  We are traveling full time for the next year.  We travel all over with a goal of chasing beautiful locations that are around sixty degrees.  Alex would prefer 110 degrees.  She is always cold.  I personally love when it's freezing but we've found a way to compromise.
+My name is Benjamin and my goofy companion is Alex.  We are traveling full time for the next year.  We travel all over with a goal of chasing beautiful locations that are around sixty degrees.  Alex would prefer 110 degrees.  She is always cold. (<-- He's being exaggerative)  I personally love when it's freezing but we've found a way to compromise.
 
 We started as long-trip vandwellers but maintained a residence back home.  Eventually our trips grew longer and we finally decided to get rid of our apartments and travel full time.  Technically, we're still staying in a van but we [upgraded to a mini-motorhome](http://localhost:4000/vandwelling/rv/pleasureway-rv-new-home/) after [running into a snag](http://localhost:4000/road%20bumps/las-vegas-to-cali/).
 
@@ -27,7 +27,7 @@ We started as long-trip vandwellers but maintained a residence back home.  Event
 
 There is not a super amazing story behind how we started.  I've spent a lifetime **doing** whatever crazy thing comes to mind.  I've been a lake rat, trekked around on motorcycles, and randomly gone on all sorts of fun adventures.  In fact, I had owned a RV with the intention to travel many years ago.  It didn't work out like I expected and I eventually parted ways with that home.
 
-I kept mentioning my desire to go on random trips to Alex (she's always game) and finally we did it for a few weeks.  That's all it took.  I was hooked.  We dipped our toe in the water and I was addicted.  We continued to go on new trips and each time it became more enticing.  Finally, I decided I was not going to renew my apartment lease and I was going to do this full time.
+I kept mentioning my desire to go on random trips to Alex (she's always game) and finally we did it for a few weeks.  That's all it took.  I was hooked.  We dipped our toe in the water and I was addicted.  We continued to go on new trips and each time it became more enticing.  Finally, we both decided we were not going to renew our apartment leases and we were going to do this full time.
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/bluemangroup.jpg){: .align-left}
 
@@ -39,8 +39,13 @@ I currently work at an amazing company that explores all sorts of fun ideas abou
 
 ### What does Alexis do for work?
 
+I started off working as a lifeguard for six years, managing a number of pools and guards. After getting burnt out, I spent a year as a hostess/waitress for a local cafe. Once I hit the year mark, I quit and looked for something that could become a career. That's when I ended up at the company I work for now. I started as the front desk/office manager, and within three months was transferred to work on the helpdesk assisting with users computer troubles. Just this last August, I was given an incredible opportunity to transfer into our development team. I am now working on automating onboarding and offboarding processes, and upgrading our databases to keep up with modern technology. And who knows after that! I could work on anything from automation scripting to app development and machine learning. The company we work for is encouraging of personal learning, growth, and development. Our team also has the flexibility to work from home, or in our case, pretty much anywhere. 
 
+### Our Hobbies
 
+**Alex:** Since childhood, I have been an addict reader. I love reading books on fantasy, science fiction, and fiction in general. In free time, I'm often found with my nose in a book. I also enjoy hiking, and look forward to the opportunities we now have to hike all across the country.
+
+**Ben:**
 
 <!--
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/sequoia-selfie-small.jpg){: .align-center}
