@@ -10,6 +10,8 @@ categories:
 tags:
   - Las Vegas
   - Hotels
+  - Tuscany Hotel & Casino
+  - Hooters Hotel & Casino
 ---
 
 ### Tuscany Hotel & Casino
