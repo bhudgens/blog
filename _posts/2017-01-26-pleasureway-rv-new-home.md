@@ -45,9 +45,11 @@ How did we get here?  Compromise.
 
 It started with a conversation with my mother who pointed out RV's she had been looking at.  I had discouraged the RV life style after my experiences.  Not that I didn't love it but it takes a level of "Mr. Fixit" that is not necessarily compatible with my mother.  A lot of people love the idea of giant RV's and there's nothing wrong with it.
 
-My mother had been looking at modest RV's.  These were short, simple, and cheap.  And through our conversations she pointed out the Pleasureway.
+My mother had been looking at modest RV's.  These were short, simple, and cheap.  And through our conversations she pointed out the Pleasureway.  As we looked more at the Pleasure Way RV it started chipping away at my concerns about owning another RV.  Next thing you know we are really considering this thing.  We're looking all over the country for purchasing options and went for a test drive at a local dealer.
 
-My list of concerns/wishes from most important to us to least:
+## What's important?
+
+My list of concerns/wishes from most important to us to least -
 
 - Size (smaller is better)
 - Power
