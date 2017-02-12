@@ -25,7 +25,7 @@ We started as long-trip vandwellers but maintained a residence back home.  Event
 
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/sequoia-selfie-small.jpg){: .align-right}
 
-There is not a super amazing story behind how we started.  I've spent of lifetime of **doing** whatever crazy thing comes to mind.  I've been a lake rat, trekked around on motorcycles, and randomly gone on all sorts of fun adventures.  In fact, I had owned a RV with the intention to travel many years ago.  It didn't work out like I expected and I eventually parted ways with that home.
+There is not a super amazing story behind how we started.  I've spent a lifetime **doing** whatever crazy thing comes to mind.  I've been a lake rat, trekked around on motorcycles, and randomly gone on all sorts of fun adventures.  In fact, I had owned a RV with the intention to travel many years ago.  It didn't work out like I expected and I eventually parted ways with that home.
 
 I kept mentioning my desire to go on random trips to Alex (she's always game) and finally we did it for a few weeks.  That's all it took.  I was hooked.  We dipped our toe in the water and I was addicted.  We continued to go on new trips and each time it became more enticing.  Finally, I decided I was not going to renew my apartment lease and I was going to do this full time.
 
