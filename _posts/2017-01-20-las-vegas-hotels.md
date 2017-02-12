@@ -14,6 +14,9 @@ tags:
   - Hooters Hotel & Casino
 ---
 
+Since we were going to be in Vegas for at least a week, we decided to try out a couple hotels.
+
+
 ### Tuscany Hotel & Casino
 *January 11 - 14, 2017*
 
