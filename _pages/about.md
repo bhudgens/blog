@@ -31,6 +31,8 @@ I kept mentioning my desire to go on random trips to Alex (she's always game) an
 
 ### What does Benjamin do for work?
 
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/bluemangroup.jpg){: .align-left}
+
 I've worked in several areas of the computer industry for almost twenty years.  I started in Network Engineering which naturally pathed into Unix Engineering.  I was a puppy then and garnered a passion for Software Development.  I've been blessed to work at some amazing companies through the years with smart people.  I've been accused more than once of being a workaholic.  This misunderstanding is because my work was really my hobby and I love the industry.  I've amassed a broad and senior bit of knowledge in disciplines all over the technology field.  I've held several senior roles through the years, but ultimately, my passion is Software Development.
 
 I currently work at an amazing company that explores all sorts of fun ideas about how to use computers to optimize our business processes.  I still work many hours a day but the work can be done anywhere.  This freedom allows for the travel!

@@ -12,7 +12,7 @@ tags:
   - Tubing
 ---
 
-Finding a way to fly around in the snow has become a tradition at MusicFest.  This year was no exception.  The ranch had brand new snow mobiles.  They did not disappoint.
+Finding a way to fly around in the snow has become a tradition at MusicFest.  This year was no exception.  The ranch had brand new snowmobiles.  They did not disappoint.
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/tubing.jpg){: .align-left}
 
@@ -22,4 +22,4 @@ To say it got a little crazy would be an understatement.  Surrounded by tons of 
 
 Part of the tradition is annual snowmobiling and tubing.  I had never done large scale tubing until last year.  **It is a blast**.  This year the snowmobiles were brand new and cranked out some speed.  We had approximately fifty people in the group which means we _almost_ rent out every snow mobile.
 
-If you have never had a chance to go tubing or snowmobiling, or perhaps like me, you felt it would be boring - it is not!  They are both activites to try when you're up in the mountains.
+If you have never had a chance to go tubing or snowmobiling, or perhaps like me, you felt it would be boring - it is not!  They are both activities to try when you're up in the mountains.
