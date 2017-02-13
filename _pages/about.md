@@ -39,11 +39,11 @@ I currently work at an amazing company that explores all sorts of fun ideas abou
 
 ### What does Alexis do for work?
 
-I started off working as a lifeguard for six years, managing a number of pools and guards. After getting burnt out, I spent a year as a hostess/waitress for a local cafe. Once I hit the year mark, I quit and looked for something that could become a career. That's when I ended up at the company I work for now. I started as the front desk/office manager, and within three months was transferred to work on the helpdesk assisting with users computer troubles. Just this last August, I was given an incredible opportunity to transfer into our development team. I am now working on automating onboarding and offboarding processes, and upgrading our databases to keep up with modern technology. And who knows after that! I could work on anything from automation scripting to app development and machine learning. The company we work for is encouraging of personal learning, growth, and development. Our team also has the flexibility to work from home, or in our case, pretty much anywhere. 
+I started off working as a lifeguard for six years managing a number of pools and guards. I spent a year as a hostess/waitress for a local cafe. I stopped working at the cafe after a year and looked for something that could become a career. That's when I ended up at the company I work for now. I started as the front desk/office manager, and within three months was transferred to work on the helpdesk assisting with users computer troubles. Last August I was given an incredible opportunity to transfer onto our development team. I am now working on the automation of our onboarding and offboarding processes and upgrading our databases to the latest versions. Who knows after that! I may work on anything from automation-scripts to machine learning. The company we work for encourages personal growth and development. Our team also has the flexibility to work from anywhere which gives me the luxury to travel.
 
 ### Our Hobbies
 
-**Alex:** Since childhood, I have been an addict reader. I love reading books on fantasy, science fiction, and fiction in general. In free time, I'm often found with my nose in a book. I also enjoy hiking, and look forward to the opportunities we now have to hike all across the country.
+**Alex:** I have been an addict reader since childhood. I love reading books on fantasy, science fiction, and fiction in general. I'm often found with my nose in a book in my free time. I also enjoy hiking and look forward to the opportunities we now have to hike all across the country.
 
 **Ben:**
 
