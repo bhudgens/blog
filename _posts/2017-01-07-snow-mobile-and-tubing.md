@@ -16,7 +16,7 @@ Finding a way to fly around in the snow has become a tradition at MusicFest.  Th
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/tubing.jpg){: .align-left}
 
-A few years ago a friend of mine randomly came across last-minute tickets to MusicFest.  I paid for the tickets and committed to going.  Last minute I did not make the trip.  He went on and had a great time.  While there he ran into an amazing group of folks who were seasoned veterans of Musicfest.  So last year I was able to tag along with this huge and amazing group of folks.  Last year was my first MusicFest.
+A few years ago a friend of mine randomly came across last-minute tickets to MusicFest.  I paid for the tickets and committed to going.  Last minute I did not make the trip.  He went on and had a great time.  While he was at Musicfest, he ran into an amazing group of folks who were seasoned veterans of Musicfest.  So last year I was able to tag along with this huge and amazing group of folks.  Last year was my first MusicFest.
 
 To say it got a little crazy would be an understatement.  Surrounded by tons of friends, I somehow managed to disappear for hours.  I can't remember.  They can't remember.  Every night runs till 5AM and we are so lucky to have tons of artists coming to _our_ personal rooms playing private concerns just-for-us.  Musicfest is a blast every year.
 
