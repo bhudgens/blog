@@ -18,7 +18,7 @@ It only took a few months for us to run into our [first snags](http://chasingsix
 
 Several years ago I had owned a big ole brand new 40' diesel pusher.  It was a great experience and it gave me perspective.  All the conveniences of home.  Luxury and relaxation.  But...
 
-Anyone who has lived around in a giant RV for any extended period of time knows that all those nasty bumps on the road shake things around.  New RV's, like the one I owned, have complex electrical systems.  The more complex the system - the higher your odds of having problems.  I didn't have a ton of problems but every problem came with signficant costs.
+Anyone who has lived around in a giant RV for any extended period of time knows that all those nasty bumps on the road shake things around.  New RV's, like the one I owned, have complex electrical systems.  The more complex the system - the higher your odds of having problems.  I didn't have a ton of problems but every problem came with significant costs.
 
 Moving a big 'ole diesel pusher also requires a lot of discipline and diligence.
 
@@ -35,7 +35,7 @@ Moving a big 'ole diesel pusher also requires a lot of discipline and diligence.
 
 I'd get everything done, get on the road, and look back and realize I had left a silly light on (meaning glare on my windshield).  One can't just pull a 40' bus over easily to flip that light off.. it's a process.
 
-What really excited me about vandwelling was the simplicity, flexibility, and convenience.  We spend a lot of time boondocking.  We spend a lot of time stealth camping.  Driving around in a giant 40' RV takes away some of the things I love about this lifestyle.  I was pretty set on not giving up our flexibility.
+What really excited me about van-dwelling was the simplicity, flexibility, and convenience.  We spend a lot of time boon-docking.  We spend a lot of time stealth camping.  Driving around in a giant 40' RV takes away some of the things I love about this lifestyle.  I was pretty set on not giving up our flexibility.
 
 ## We started talking...
 
@@ -56,18 +56,16 @@ My list of concerns/wishes from most important to us to least -
 - Bathroom
 - Water tank sizes
 
-Bathrooms quickly became the focal point of this lifestyle.  If I were traveling alone, as a guy, we have a little more flexibility for bathroom options.  Mother nature has provided enough trees that we can pretty much sneak off to relieve ourselves anywhere.  Alex is certainly not ashamed in a pinch to enjoy this same flexibility but it's not ideal.  This meant learning to sleep near places that are 24hrs.  Lots of walmarts, gas stations, or stores.  Potty requirements meant being disciplined and really limiting fluid intake after 6PM.  Bathrooms required thought and sometimes distracted from our adventures.
+Bathrooms quickly became the focal point of this lifestyle.  If I were traveling alone, as a guy, we have a little more flexibility for bathroom options.  Mother nature has provided enough trees that we can pretty much sneak off to relieve ourselves anywhere.  Alex is certainly not ashamed in a pinch to enjoy this same flexibility but it's not ideal.  This meant learning to sleep near places that are 24hrs.  Lots of Walmart, gas stations, or stores.  Potty requirements meant being disciplined and really limiting fluid intake after 6PM.  Bathrooms required thought and sometimes distracted from our adventures.
 
 The Pleasure Way immediately solved come of my concerns.  Coming in at 23' means I can comfortably park in most parking spaces.  The average parking space is 19' but I find plenty of 20 - 22' spots.  Even in 20' spots hanging out a couple feet isn't terrible and there have been plenty of opportunities to park out a little further and snugly get in the spaces.
 
 If we were going to buy an RV - The bathroom style was a factor.  We found similar showers in most RV's.  You get the toilet/shower combo in the tiniest RV's, or the 2'x2' mini-shower in the slightly larger RV's (I don't fit), or maybe you get lucky with one that has the rounded doors and squeeze out a tiny bit more room.  The Pleasure Way has a large 30"x30".  The shower size wasn't intended to be a big deal for us but it's turned out to be a wonderful luxury feature.
 
-The Pleasure Way comes with decent solar.  We work full time and our computers pull approximately 6A.  We have solar capacity for 15A.  We can actually work off the sun completely allowing our batteries to hold power for the water pump and charging our mini-devices (like phones and small appliances).  Also, just about everything charges our coach batteries (generator, shore power, alternator, and the sun).  We have tons of power to boondock.
+The Pleasure Way comes with decent solar.  We work full time and our computers pull approximately 6A.  We have solar capacity for 15A.  We can actually work off the sun completely allowing our batteries to hold power for the water pump and charging our mini-devices (like phones and small appliances).  Also, just about everything charges our coach batteries (generator, shore power, alternator, and the sun).  We have tons of power to boon-dock.
 
-The water tanks are decent for this size RV but having had double the capacity in my last RV - we can feel the limits.  I really wish manufactorers would put large grey tanks and tiny black tanks.  Either way - 30 gallons is enough for approximately five comfortable showers.
+The water tanks are decent for this size RV but having had double the capacity in my last RV - we can feel the limits.  I really wish manufacturers would put large grey tanks and tiny black tanks.  Either way - 30 gallons is enough for approximately five comfortable showers.
 
 ## Conclusion
 
-We still live in a van but we've certainly upgraded.  We have a bathroom and severaly ameneties that have really improved our quality of life.  Our simple RV doesn't have any slides or very many things that can go wrong (fingers crossed).  We're really excited to have a more comfortable option for travling.  Our van will be in the shop for a while but eventually we'll get it shipped back home and use it to puts around town when we are back home.
-
-
+We still live in a van but we've certainly upgraded.  We have a bathroom and severely amenities that have really improved our quality of life.  Our simple RV doesn't have any slides or very many things that can go wrong (fingers crossed).  We're really excited to have a more comfortable option for traveling.  Our van will be in the shop for a while but eventually we'll get it shipped back home and use it to puts around town when we are back home.
