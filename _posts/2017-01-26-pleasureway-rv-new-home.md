@@ -68,4 +68,4 @@ The water tanks are decent for this size RV but having had double the capacity i
 
 ## Conclusion
 
-We still live in a van but we've certainly upgraded.  We have a bathroom and severely amenities that have really improved our quality of life.  Our simple RV doesn't have any slides or very many things that can go wrong (fingers crossed).  We're really excited to have a more comfortable option for traveling.  Our van will be in the shop for a while but eventually we'll get it shipped back home and use it to puts around town when we are back home.
+We still live in a van but we've certainly upgraded.  We have a bathroom and several amenities that have really improved our quality of life.  Our simple RV doesn't have any slides or very many things that can go wrong (fingers crossed).  We're really excited to have a more comfortable option for traveling.  Our van will be in the shop for a while but eventually we'll get it shipped back home and use it to puts around town when we are back home.
