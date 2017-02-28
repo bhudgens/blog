@@ -1,5 +1,5 @@
 ---
-title: Stopped  Bureaucracy
+title: Stopped By Bureaucracy
 author: Benjamin Hudgens
 header:
   image: /assets/images/2017-02-27-okc-sunset.jpg
