@@ -18,11 +18,11 @@ Eager to get on the road, we drove straight from the dealership to the Title off
 
 We purchased our RV out-of-state and planned on registering it back at home.  The problem was that my credit rating was high enough that the dealership pre-approved the loan without funding it.  
 
-Approving the loan instantly is normally not a good thing.  However, for our adventure this caused delays in processing our paperwork.  The dealership sat around on the paperwork the next week for days before the funded the note.  This added more delays.  
+Approving the loan instantly is normally not a good thing.  However, for our adventure this caused delays in processing our paperwork.  The dealership sat around on the paperwork the next week for days before they funded the note.  This added more delays.  
 
 ## Buying In California
 
-We purchased the RV in California. California doesn't allow the purchaser of a new recreational vehicle to take direct deliver within the State of California if you intend to register out-of-state. The dealership hires an independent driver to drive you out of the state.  You ride along with the driver until you leave the state and then take delivery right as you cross the border.  The dealership does not provide any sort of **dealership license plate**.  
+We purchased the RV in California. California does not allow the purchaser of a new recreational vehicle to take direct deliver within the State of California if you intend to register out-of-state. The dealership hires an independent driver to drive you out of the state.  You ride along with the driver until you leave the state and then take delivery right as you cross the border.  The dealership does not provide any sort of **dealership license plate**.  
 
 You take delivery on the border.  You have your brand new vehicle.  Now you are driving across the country without a "dealer tag" or valid license plate to your home state to register your vehicle.  
 
