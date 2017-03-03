@@ -18,7 +18,7 @@ One of the cool innovations in recent years for RV's are the _instant_ hot water
 
 The first versions of the instant hot water concept used in RV's suffered from a tiny problem.  You had to run the water for a little bit to get the system to kick on.  This made those first instant hot water systems pretty painful for [boondockers](http://www.allstays.com/Features/dry-camping-basics-what-you-need-to-know/).  This required you run through quite a bit of your fresh water tank before your water temperature was comfortable.
 
-Things have changed.  Alex and I benefit from this RV Hot Water Heater industry continuing innovation in this area.  Our unit is a hybrid approach.  Out hot water heater has a really tiny tank that the heater maintains at a constant temperature.  The water in the tiny tank is ready for use instantly and is enough to serve you hot water until the hot water heater has a chance to heat up.  It only takes a few seconds before the unit is serving a constant stream of hot water.  
+Things have changed.  Alex and I benefit from this RV Hot Water Heater industry continuing innovation in this area.  Our unit is a hybrid approach.  Our hot water heater has a really tiny tank that the heater maintains at a constant temperature.  The water in the tiny tank is ready for use instantly and is enough to serve you hot water until the hot water heater has a chance to heat up.  It only takes a few seconds before the unit is serving a constant stream of hot water.  
 
 ## The Problem
 
