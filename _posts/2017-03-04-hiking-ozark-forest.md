@@ -3,7 +3,7 @@ title: Whitaker Point - Hawksbill Crag
 author: Benjamin Hudgens
 header:
   image: /assets/images/header/DJI_0017.jpg
-  caption: Driving Through Dead Forest
+  caption: Hawksbill Crag
 categories:
   - Arkansas
   - Hiking
