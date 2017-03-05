@@ -30,7 +30,7 @@ Once I started rattling off specific sections of the FAA code and snippets of th
 
 ## Make sure you know the law.
 
-When I stared using my drone I did a tremendous amount of research.  You are required to register with the FAA and display your license number prominently on the drone.  You are also required to follow a slew of guidelines.
+When I started using my drone I did a tremendous amount of research.  You are required to register with the FAA and display your license number prominently on the drone.  You are also required to follow a slew of guidelines.
 
 Since people tend to have drastically different feelings about drone use I've made an effort to be respectful and keep mine out-of-site-out-of-mind.  Even if I'm within my rights to fly _around_ an area with people I tend to fly really high and stay less noticeable.  Drones can pollute a beautiful scene with noise.  They can be pretty loud.  I try to balance my usage with getting a good photo but keeping my distance from popular locations.  Sometimes I lose a good shot and that's okay.
 

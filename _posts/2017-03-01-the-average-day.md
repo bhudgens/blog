@@ -23,7 +23,7 @@ We ran over to Walmart.  This was right down the street and we restocked.  One o
 
 We got a few hours of driving in.  Alex was fading fast so we agreed that I would drive that evening while she slept.  She would get up early and drive in the morning.  I wanted Alex to wake up in a exotic location with miraculous views.  I pulled over and parked at a McDonalds and went to bed for the night.
 
-## Extravagance During - Day 2
+## Extravagance - Day 2
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/urban-working-day-2.png){: .align-left}
 One of the challenges Alex and I have had in our wonderful relationship is that I am a morning person.  I don't sleep much and I work a lot.  I usually wake up at 4AM - 6AM and go to bed around 12AM - 2AM.  Alex is my opposite.  She would sleep through an earth quake, fire alarm, or nuclear blast.  She also can get tired at 8PM and sleep until noon the next day.  With this in mind, it was not surprising to wake up in the same spot. We were still at McDonalds. A certain someone did not get up early and move us down the road. She is pretty cute when she wakes up so there's not much you can do about it.

@@ -14,9 +14,10 @@ tags:
   - AllTrails
 ---
 
+<!-- TODO: New header image and app links -->
+
 One of the challenges of traveling in an RV is knowing where you can dump and get fresh water. No single app has proven to be excellent, but we have discovered some stores that we can depend on (for the most part) with handy apps. There are also some other apps that have helped us in deciding where to go and when.
 
-<!-- TODO: New header image and app links -->
 ## myPilot
 
 We've discovered that most Flying J truck stops across the country have an amazing amenity - RV Lanes. These lanes allow you to dump, top off on water, and fuel up all in one go. The only friction point we've run into is that the water at many of the ones we've stopped at has been turned off due to the time of year. Some locations were able to pull strings to turn it on for us, while others were either less willing or less able to. Their app, myPilot, has a feature that lets you plan a route and filter their locations to only show those with the RV Fuel Lanes and dump. Some Pilot locations also have dump, but Flying J (owned by Pilot) is more dependable.
@@ -31,4 +32,4 @@ I personally have found Pinterest to be rather helpful in looking up things to d
 
 ## AllTrails
 
-AllTrails allows you to enter your destination, whether it be state, city, or park, and gives you a list of hikes and trails. It will rank them by popularity, and also gives a breakdown of the trail details. The details include how long the hike is, whether it's a loop or a there-and-back, the difficulty, and location with directions. For us, this will be rather valuable in planning what to do in various parks and forests around the country. 
+AllTrails allows you to enter your destination, whether it be state, city, or park, and gives you a list of hikes and trails. It will rank them by popularity, and also gives a breakdown of the trail details. The details include how long the hike is, whether it's a loop or a there-and-back, the difficulty, and location with directions. For us, this will be rather valuable in planning what to do in various parks and forests around the country.
