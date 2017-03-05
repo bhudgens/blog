@@ -45,7 +45,7 @@ I started off working as a lifeguard for six years managing a number of pools an
 
 **Alex:** I have been an addict reader since childhood. I love reading books on fantasy, science fiction, and fiction in general. I'm often found with my nose in a book in my free time. I also enjoy hiking and look forward to the opportunities we now have to hike all across the country.
 
-**Ben:**
+**Ben:** Most of my free time is spent finding new ways to make Alex cold.  I've gone through so many fun phases that a tiny list of hobbies wouldn't really apply.  I spend time dabbling in photography, I spend tons of time reading about new engineering technologies, I've recently been playing around with drones, I've taught myself guitar, drums, and piano; but, mostly I focus on keeping things changing.  I hyper focus on one thing until I feel like I've got it mastered.  When I feel like I've got a the hang of something, I try to move to the next.
 
 <!--
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/sequoia-selfie-small.jpg){: .align-center}
