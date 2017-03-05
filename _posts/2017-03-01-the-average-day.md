@@ -5,12 +5,10 @@ header:
   image: /assets/images/oklahoma_sunset.jpg
   caption: Random Sunset Driving Through Oklahoma
 categories:
-  - Arkansas
-  - Hiking
+  - General
 tags:
-  - Ozark National Forest
-  - Whitaker Point Hike
-  - Hawksbill Crag
+  - Working
+  - Traveling
 ---
 
 We had just gotten our paperwork and license plate.  It was time to get on the road.  We had been waiting weeks to start traveling.  The story begins...
@@ -20,6 +18,7 @@ We had just gotten our paperwork and license plate.  It was time to get on the r
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/urban-working-day-1.png){: .align-right}
 What we actually did on our first day was sit in a random parking lot less than one mile from our originating location and work.  In fact, most days go like that.  We have pretty demanding jobs and we work normal hours.  Our first day on the road was spent working.  It was a long and demanding day which meant almost 12 hours in a random parking lot.  We moved approximately one mile.  
 
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/work-desk-sandwich.jpg){: .align-left}
 We ran over to Walmart.  This was right down the street and we restocked.  One of the great advantages of upgrading to the RV is that we can retain normal groceries.  A full size fridge means we can keep vegetables, red bull, gatorade, sandwich meat, frozen meals, and an assortment of other goodies.  This allows us to pull over and have lunch wherever we are.  The microwave is a little brutal to our battery capacity so we are learning to limit the frozen meals.  Having a kitchen with a fridge and microwave wasn't a huge selling point for me but it's turned out to be a wonderful convenience.
 
 We got a few hours of driving in.  Alex was fading fast so we agreed that I would drive that evening while she slept.  She would get up early and drive in the morning.  I wanted Alex to wake up in a exotic location with miraculous views.  I pulled over and parked at a McDonalds and went to bed for the night.
