@@ -2,7 +2,7 @@
 title: Heading Into The Ozarks
 author: Alexis Jackson
 header:
-  image: /assets/images/oklahoma_windmills.jpg
+  image: /assets/images/header/IMG_1468-Edit.jpg
   caption:
 categories:
   - National Parks
