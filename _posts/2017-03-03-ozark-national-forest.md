@@ -26,6 +26,7 @@ While we had full hookups, we took the time to do some maintenance cleaning in o
 
 ## Getting There
 
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/from-the-sky-small.jpg){: .align-left}
 We took Hwy 23 north from I-40, along Pig Trail Scenic Byway. Even in the end of winter with little color or leaves on the trees it was a beautiful drive. The road is windy and there are parts of it that feel like driving through a tunnel of trees. I imagine it is an incredible drive in the spring and fall, and look forward to returning to this area. At one of the overlooks we stopped to fly the drones and try to get some photos. Photography is something we are both trying to spend more time doing this year. We've set up our RV to make both the drones and the cameras easily accessible for quick pull overs. After an hour or so of flying, we hopped back in and continued the drive.
 
 ## Trouble on the road
