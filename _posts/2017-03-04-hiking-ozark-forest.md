@@ -32,4 +32,4 @@ The hike was heavily traveled.  There were tons of families and folks of various
 
 We took an aggressive pace and hiked approximately 1.5 miles inland.  The hike is mostly down hill on the way in with the trail moderately paved from all the traffic.  You can tell this would be a very pretty hike in a different season.  Right now all the trees are dead and there isn't much color.  Our pictures are pretty boring and dull.
 
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/IMG_1497.jpg){: .align-right}
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/IMG_1497.jpg){: .align-left}
