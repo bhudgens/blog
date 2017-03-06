@@ -36,7 +36,7 @@ On Hwy 16 just passed Boston we saw a UPS truck pulled over on the side of the r
 
 ## Friday Night
 
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/IMG_6321.jpg){: .align-right}
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/IMG_6346_Aurora2017_HDR-Edit.jpg){: .align-right}
 By the time we got to the 6.9-mile dirt road to get to the trail head, it was 5PM and too late to do the full hike before dark. Already on the dirt road with few options to turn around in an RV, we found a small turnout on the right-side of the road that we decided to park in for the night. Ben flew his drone to get some air shots of the sunset, and I played around with the Canon to see if I could get some photos of the area.
 
 A member of the local dirt biking patrol stopped by and let us know that it was perfectly fine to stay overnight where we were, and that hunters stay there often. It was pretty awesome being parked in the middle of nowhere off of a dirt road, surrounded by trees and nothing else. Had we gotten any bigger of an RV, we wouldn't be able to just pull over like that.
