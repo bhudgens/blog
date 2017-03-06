@@ -12,4 +12,4 @@ tags:
   - Location
 ---
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1E5aj_U1hcfTsbbPDxdurcQMiaQc" width="640" height="480"></iframe>
+<iframe src="{{ site.location.url }}" width="640" height="480"></iframe>

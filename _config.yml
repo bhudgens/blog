@@ -151,6 +151,9 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
+# Google Maps URL
+location:
+  url: 'https://www.google.com/maps/d/u/0/embed?mid=1E5aj_U1hcfTsbbPDxdurcQMiaQc'
 
 # Markdown Processing
 kramdown:
