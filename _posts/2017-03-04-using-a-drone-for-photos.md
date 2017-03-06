@@ -12,7 +12,7 @@ tags:
   - Drone Rules
 ---
 
-Drones are a new and exciting option for taking photos and video in locations otherwise unreachable.  Some folks have been reckless and/or considerate with their drones.  Some folks do not respect the safety aspects.  This has caused friction with the average public who don't adopt change easily.
+Drones are a new and exciting option for taking photos and video in locations otherwise unreachable.  Some folks have been reckless and/or inconsiderate with their drones.  Some folks do not respect the safety aspects.  This has caused friction with the average public who don't adopt change easily.
 
 ## Photos With A Drone
 
