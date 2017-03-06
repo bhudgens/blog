@@ -18,7 +18,7 @@ Last night was our first taste of staying on a pull-off in a National Forest.  W
 ## Waking Up In A Forest
 
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/IMG_6321.jpg){: .align-right}
-We worked a normal day yesterday but [headed into the forest](/national%20parks/arkansas/ozark-national-forest/) at the end of our day.  We had a little sun to spare but decided it wasn't enough to comfortably make a three mile hike and enjoy it.  We pulled off and slept in a random spot in the middle of the forest.
+We worked a normal day yesterday but [headed into the forest](/national%20parks/arkansas/heading-into-the-ozarks/) at the end of our day.  We had a little sun to spare but decided it wasn't enough to comfortably make a three mile hike and enjoy it.  We pulled off and slept in a random spot in the middle of the forest.
 
 Sleeping in the middle of the forest is a bit intoxicating.  It's very quiet and the sounds are relaxing.  We slept with our windows wide open and woke to a beautiful sunrise and a woodpecker pounding on a tree.  The weather is absolutely wonderful right now.
 
