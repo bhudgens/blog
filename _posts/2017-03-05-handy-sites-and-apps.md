@@ -14,8 +14,6 @@ tags:
   - AllTrails
 ---
 
-<!-- TODO: New header image and app links -->
-
 One of the challenges of traveling in an RV is knowing where you can dump and get fresh water. No single app has proven to be excellent, but we have discovered some stores that we can depend on (for the most part) with handy apps. There are also some other apps that have helped us in deciding where to go and when.
 
 ## myPilot 
