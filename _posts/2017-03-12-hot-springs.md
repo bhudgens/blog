@@ -10,11 +10,12 @@ tags:
   - Arkansas
   - Hot Springs
   - Food
+  - Activities
 ---
 
 We stayed an entire week in Hot Springs. Since leaving Austin at the end of February, this is the longest we've stayed in one city. We loved it.
 
-The city of Hot Springs is on the smaller side, but is packed with charm and wonderful people. Every single person we interacted with was as kind as can be. From the staff at a laundromat to the cook at the sushi place and strangers in the only local Starbucks. In this post I'll be highlighting the things we did that we loved, as well as a list of others that a local recommended. We didn't get to do them all, but I'm passing them along both so I have a list of "Things To Do" when I come back, and for our dear readers. 
+The city of Hot Springs is on the smaller side, but is packed with charm and wonderful people. Every single person we interacted with was as kind as can be. From the staff at a laundromat to the cook at the sushi place and strangers in the only local Starbucks. In this post I'll be highlighting the things we did that we loved, as well as a list of others that a local recommended. We didn't get to do them all, but I'm passing them along both so I have a list of "Things To Do" when I come back, and for our dear readers. We stayed a few nights at the KOA (covered [here](/general/koa-hot-springs/)), and the other nights at Walmart.
 
 
 ### Osaka Japanese Steakhouse and Sushi Bar
@@ -35,3 +36,16 @@ Also located behind the Starbucks on Central Avenue (see a pattern here yet? :P 
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/IMG_1553.jpg){: .align-left}
 On Friday afternoon, we decided that we would spend Saturday checking out the Oaklawn Horse Races. Neither of us had ever been to one, and were intrigued when someone recommended it. Why not, right? Having never been, when we weren't able to get there by 1:00PM when the races started, we were concerned that we wouldn't get to see much. Boy were we wrong. It turned out to be a 9 race event, each race being about 20 minutes apart. We left around 3:30PM, and they were just getting to race #6. The races were exciting to watch and see everyone really get into it. You can bet as low as $2, and there are various ways you can bet. The groups sat around us each went to bet between each race, while others it seemed do all of their betting at the beginning. It was cheap to get seats - only $4.50/person on a Saturday. If you didn't worry about seats and hang out in front out side or back in the betting areas, general admission was free while we were there (March 11). We got the corned beef sandwich to snack on since we had read a few different places online that it was a must. Neither of us are huge corned beef fans, but we still found it to be pretty good with some mustard (our favorite). Drinks were all around $5 a piece. Overall, spending a day at the races can be a pretty cheap afternoon for those visiting Hot Springs and looking for some excitement. 
 
+### Recommendations From a Few Locals
+
+We didn't get to these places, but each place was recommended a couple of times by Hot Springs locals.
+
+  - Maxine's (try the pizza)
+  - Taco Mama
+  - Steinhaus Keller
+  - Pancake Shop (get the banana pancakes)
+  - Fat Bottom Girls Cupcakes
+  - Kollective Coffee and Tea
+  - Arlington Hotel
+  - Hot Springs Mountain Tower
+  - Churchill's Fine Cigars
