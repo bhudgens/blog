@@ -16,6 +16,11 @@ tags:
 
 One of the challenges of traveling in an RV is knowing where you can dump and get fresh water. No single app has proven to be excellent, but we have discovered some stores that we can depend on (for the most part) with handy apps. There are also some other apps that have helped us in deciding where to go and when.
 
+## Waze
+
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/waze.png){: .align-left}
+Easily one of our most used apps is [Waze](https://www.waze.com/).  We have an entire cell phone dedicated only to waze.  Even if we are not using waze for GPS we keep it open at all times while we drive.  We are using one of our old iPhones for this purpose and the waze phone is plugged in at all times.  Waze uses data from other folks to make its navigation more efficient.  It will take you on side streets and down roads you'd possibly never consider if it can save you five minutes.  The best part is it will automatically notify you when you are speeding and notifies you when there are hazards on the road, traffic, and tells you where most cops are.  Even if the cop has moved on you know there is possibly one in the area.  
+
 ## myPilot
 
 ![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/my-pilot.png){: .align-left}
