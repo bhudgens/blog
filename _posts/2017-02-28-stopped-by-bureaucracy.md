@@ -5,7 +5,7 @@ header:
   image: /assets/images/2017-02-27-okc-sunset.jpg
   caption: Oklahoma City Sunset
 categories:
-  - Van-dwelling
+  - Vandwelling
   - RV
 tags:
   - Paperwork

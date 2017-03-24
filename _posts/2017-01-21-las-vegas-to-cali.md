@@ -5,7 +5,7 @@ header:
   image: /assets/images/welcome_to_california.jpg
   caption:
 categories:
-  - Road Bumps
+  - Road-Bumps
 tags:
   - Leak
 ---
@@ -25,4 +25,3 @@ It was a cloudless day as we drove, so when we suddenly started getting a decent
 Once we got to California, we met up with Ben's mother and emptied the van out in her garage. Before we took the van to the dealer, we still wanted to be able to vacuum it out and run through a car wash to see if we could get video of the leak. I sat in the backseat while Ben drove the van through the wash, and was able to get a video of what ended up being a pretty substantial leak directly over where the buttons are to stow the backseats. A month prior, we had taken the van to AutoNation Toyota here in Austin, and found out that there was a dent under the plastic molding on the back door, as well as under the seal itself. From the looks of it, we're guessing someone had tried to shut the door with a tool or something wedged in there before the plastic was ever installed. We had the tech there adjust it as best he could, but it apparently didn't make much of a difference.
 
 The techs at the Orange dealership we took the van to in California were all really nice guys, and helpful. We were able to show them the photos and videos of the leak, as well as a video of the backseats not latching in properly. Fortunately, the backseats not latching in to the floor ended up solving itself, and we weren't able to reproduce it at the dealership. We're assuming that it may have been caused by the gears or wiring being wet under the seat, and once it dried out a bit it started working as it should. It does, however, look like we're going to need a new back door, which means bodyshop and paint. It'll be a while before we can get our home back. :(
-

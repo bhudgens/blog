@@ -5,7 +5,7 @@ header:
   image: /assets/images/vegas.jpg
   caption: "Mirage Hotel"
 categories:
-  - Las Vegas
+  - Las-Vegas
   - Hotels
 tags:
   - Las Vegas

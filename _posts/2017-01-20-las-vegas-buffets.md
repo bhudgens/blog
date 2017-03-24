@@ -5,7 +5,7 @@ header:
   image: /assets/images/vegas.jpg
   caption: "Mirage Hotel"
 categories:
-  - Las Vegas
+  - Las-Vegas
 tags:
   - Buffets
   - Le Village Buffet
