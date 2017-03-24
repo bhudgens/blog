@@ -28,7 +28,7 @@ This is covered in three parts:
 
 I'm covering the good stuff last because even though we have some [tiny gripes](http://chasingsixty.com/vandwelling/rv/Two-Months-In-Pleasure-Way-XLMB-Part-2/), I absolutely love the tiny adjustment to our life.  The RV has brought tremendous convenience.  
 
-I have no buyer's remorse buying an RV.  It has been two months and I am finding that I like more about this RV than originally anticipated.  Here's a tiny list of things I've really appreciated thus far compared to my old 40 foot diesel pusher:
+I have no buyer's remorse buying an RV.  It has been two months and I am finding that I like more about this RV than originally anticipated.  Here's a tiny list of things I've really appreciated thus far compared to my 40 foot diesel pusher:
 
 - The ease of driving
 - The quick setup at camp sites
@@ -41,7 +41,7 @@ I have no buyer's remorse buying an RV.  It has been two months and I am finding
 - The Entire Automated Power System
 - Day Bed/Murphy Bed Option
 - No Rattling
-- Always On USB Plugs
+- _Always-On_ USB Plugs
 - TONS of Power Outlets
 - LED Lighting
 - The Freezer

@@ -38,3 +38,9 @@ After we get cleaned up, I squeegee the shower and apply bleach if appropriate. 
 Most work days are fairly long.  The average day is a 8AM - 9PM.  Sometimes its less but twelve hours is pretty common.  If we cut out early we will some times go to the movies.  Recently, we purchased a Nintendo Switch and Playstation 4 with VR.  Between World of Warcraft, Playstation VR, Plex, Netflix, and Nintendo we are usually busy spending time together watching movies or playing games in the evenings.
 
 When it gets later in the week we try to make an effort to be close to a destination we hope to visit for the weekend.  As I'm writing this, Alex is taking us to Charleston, SC.  It's 11:45PM.  That's our life!  =)  
+
+## Continue Reading
+
+- [Part 1 - Every Day Life](http://chasingsixty.com/vandwelling/rv/Two-Months-In-Pleasure-Way-XLMB-Part-1/)
+- [Part 2 - The Bad: A few hiccups](http://chasingsixty.com/vandwelling/rv/Two-Months-In-Pleasure-Way-XLMB-Part-2/)
+- [Part 3 - The Good: We Love It](http://chasingsixty.com/vandwelling/rv/Two-Months-In-Pleasure-Way-XLMB-Part-3/)
