@@ -26,6 +26,8 @@ This is covered in three parts:
 
 ## The Good
 
+I'm covering the good stuff last because even though we have some [tiny gripes](http://chasingsixty.com/vandwelling/rv/Two-Months-In-Pleasure-Way-XLMB-Part-2/), I absolutely love the tiny adjustment to our life.  The RV has brought tremendous convenience.  
+
 I have no buyer's remorse buying an RV.  It has been two months and I am finding that I like more about this RV than originally anticipated.  Here's a tiny list of things I've really appreciated thus far compared to my old 40 foot diesel pusher:
 
 - The ease of driving
@@ -71,3 +73,9 @@ Overall, I absolutely LOVE the murphy bed concept.  Without slides or any compro
 We slept on the memory foam mattress for a couple weeks.  The bed much larger than we are used to.  The mattress is firm and we slept pretty well.  However, I'm 6'2" and 300+ lbs.  I'm tall and fat and at my weight I go right through the foam to the wood.
 
 We decided to get a queen size, 13" height, air mattress.  It's a tiny bit of a climb from the kitchen.  Now I sleep like a polar bear in the winter.  I'm able to plug the air mattress into an outlet in the kitchen.  The mattress will also power deflates.  When the mattress is all flat and sucks all the air out we fold it up into the wall so we don't have to store it.  This has been a wonderful life-hack.
+
+## Continue Reading
+
+- [Part 1 - Every Day Life](http://chasingsixty.com/vandwelling/rv/Two-Months-In-Pleasure-Way-XLMB-Part-1/)
+- [Part 2 - The Bad: A few hiccups](http://chasingsixty.com/vandwelling/rv/Two-Months-In-Pleasure-Way-XLMB-Part-2/)
+- [Part 3 - The Good: We Love It](http://chasingsixty.com/vandwelling/rv/Two-Months-In-Pleasure-Way-XLMB-Part-3/)
