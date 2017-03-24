@@ -5,7 +5,7 @@ header:
   image: /assets/images/austin-360-bridge.jpg
   caption: Austin 360 Bridge
 categories:
-  - Van-dwelling
+  - Vandwelling
   - RV
 tags:
   - Hot Water Heater
