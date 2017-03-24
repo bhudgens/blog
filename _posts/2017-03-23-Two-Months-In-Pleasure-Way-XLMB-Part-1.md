@@ -20,9 +20,9 @@ We've been on the road for a couple months in our RV.  I found it valuable to re
 
 This is covered in three parts:
 
-- [Part 1 - Every Day Life]()
-- [Part 2 - The Bad: A few hiccups]()
-- [Part 3 - The Good: We Love It]()
+- [Part 1 - Every Day Life](http://chasingsixty.com/vandwelling/rv/Two-Months-In-Pleasure-Way-XLMB-Part-1/)
+- [Part 2 - The Bad: A few hiccups](http://chasingsixty.com/vandwelling/rv/Two-Months-In-Pleasure-Way-XLMB-Part-2/)
+- [Part 3 - The Good: We Love It](http://chasingsixty.com/vandwelling/rv/Two-Months-In-Pleasure-Way-XLMB-Part-3/)
 
 ## What's it like every day?
 
