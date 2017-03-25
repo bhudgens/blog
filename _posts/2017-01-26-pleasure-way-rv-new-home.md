@@ -12,7 +12,7 @@ tags:
   - Pleasure-Way XLMB
 ---
 
-It only took a few months for us to run into our [first snags](http://chasingsixty.com/road-bumps/las-vegas-to-cali/) of this lifestyle.  Our temporary home sprung a leak.  It was going to take several weeks to get our van all fixed.  Now where do we live?
+It only took a few months for us to run into our [first snags](http://chasingsixty.com/vandwelling/sienna/water-leak/) of this lifestyle.  Our temporary home sprung a leak.  It was going to take several weeks to get our van all fixed.  Now where do we live?
 
 ## Backstory
 
