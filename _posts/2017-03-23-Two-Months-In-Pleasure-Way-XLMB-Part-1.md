@@ -9,7 +9,7 @@ categories:
   - RV
 tags:
   - XLMB
-  - Pleasure Way
+  - Pleasure-Way
   - Power
   - Solar
   - Air Mattress

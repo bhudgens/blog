@@ -5,9 +5,10 @@ header:
   image: /assets/images/vegas.jpg
   caption: "Mirage Hotel"
 categories:
-  - Las-Vegas
+  - Reviews
 tags:
   - Buffets
+  - Las-Vegas
   - Le Village Buffet
   - Wicked Spoon
   - Cravings

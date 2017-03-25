@@ -1,5 +1,5 @@
 ---
-title: The Average Day
+title: The First Few Days
 author: Benjamin Hudgens
 header:
   image: /assets/images/oklahoma_sunset.jpg

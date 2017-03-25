@@ -7,6 +7,7 @@ header:
 categories:
   - Vandwelling
   - RV
+  - Projects
 tags:
   - Hot Water Heater
   - Wiring

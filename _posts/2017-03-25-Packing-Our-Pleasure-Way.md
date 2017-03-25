@@ -1,19 +1,16 @@
 ---
-title: After A Couple Months - Part 2
+title: Packing Our Pleasure-Way
 author: Benjamin Hudgens
 header:
   image: /assets/images/pleasureway-xlmb.jpg
   caption: Our New Pleasure-Way Home
 categories:
   - Vandwelling
-  - RV
+  - Pleasure-Way
+  - XLMB
 tags:
   - XLMB
   - Pleasure-Way
-  - Power
-  - Solar
-  - Air Mattress
-  - Hot Water Heater
 ---
 
 We've been on the road for a couple months in our RV.  I found it valuable to read about people's opinions and experiences about their vandwelling lifestyle.  I thought I would cover some of the good and bad experiences we've had.  

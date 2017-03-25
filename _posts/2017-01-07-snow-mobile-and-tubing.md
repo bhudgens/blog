@@ -5,9 +5,9 @@ header:
   image: /assets/images/snowmobile.jpg
   caption: Snowmobiling At Musicfest 2017
 categories:
-  - Trips
-  - MusicFest
+  - Vacations
 tags:
+  - MusicFest
   - Snowmobiling
   - Tubing
 ---

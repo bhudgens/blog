@@ -6,7 +6,7 @@ header:
   caption:
 categories:
   - Tools
-  - Reference
+  - Apps
 tags:
   - Pinterest
   - myPilot

@@ -9,7 +9,7 @@ categories:
   - RV
 tags:
   - XLMB
-  - Pleasure Way
+  - Pleasure-Way
   - Power
   - Solar
   - Air Mattress
@@ -64,7 +64,7 @@ We have quite a few things plugged in all the time.  For instance, we have a ded
 
 The batteries have gotten low enough to shut off the inverter twice - once, we left the fan and furnace on at the same time by accident.  The furnace fan stayed on all night long.  This blew through our propane and battery quickly.  The other time we had been boondocking for a few days with light microwave and coffee maker use, laptops full blast, and we killed the battery with the PS4 after several hours.  The Microwave, Coffee Maker, and PS4 are fairly heavy energy consumers.
 
-Overall, I'm very pleased with the power capacity in this unit.  We were intially concerned about only having 3x100 watt solar panels.  Pleasure Way offers five.  I wish we could add the extra panels.  However, we have enough to push all our gadgets and laptops during the day without draining the battery.  There are also plenty of ways to charge the house batteries.  You don't have to think about it; it's all automatic.  Driving, the generator, the sun, and plugging in all contribute to keeping the house batteries topped off.  Like the power system in large coaches - the 2017 XLMB is automatic and handles everything for you.  It's wonderful!
+Overall, I'm very pleased with the power capacity in this unit.  We were intially concerned about only having 3x100 watt solar panels.  Pleasure-Way offers five.  I wish we could add the extra panels.  However, we have enough to push all our gadgets and laptops during the day without draining the battery.  There are also plenty of ways to charge the house batteries.  You don't have to think about it; it's all automatic.  Driving, the generator, the sun, and plugging in all contribute to keeping the house batteries topped off.  Like the power system in large coaches - the 2017 XLMB is automatic and handles everything for you.  It's wonderful!
 
 ## The Murphy Bed
 
