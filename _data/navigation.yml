@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Posts"
+    url: /posts
   - title: "Current Location"
     url: /where-are-we
   - title: "About Us"
