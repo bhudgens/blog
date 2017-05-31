@@ -5,8 +5,8 @@ header:
   image: /assets/images/header/DJI_0017.jpg
   caption: Hawksbill Crag
 categories:
-  - Arkansas
   - Hiking
+  - Arkansas
 tags:
   - Ozark National Forest
   - Whitaker Point Hike

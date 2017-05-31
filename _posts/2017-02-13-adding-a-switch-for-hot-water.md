@@ -6,7 +6,9 @@ header:
   caption: Austin 360 Bridge
 categories:
   - Vandwelling
-  - RV
+  - Pleasure-Way
+  - XLMB
+  - Projects
 tags:
   - Hot Water Heater
   - Wiring

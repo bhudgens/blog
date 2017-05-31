@@ -5,10 +5,9 @@ header:
   image: /assets/images/vegas.jpg
   caption: "Mirage Hotel"
 categories:
-  - Las-Vegas
-  - Hotels
+  - Reviews
 tags:
-  - Las Vegas
+  - Las-Vegas
   - Hotels
   - Tuscany Hotel & Casino
   - Hooters Hotel & Casino

@@ -9,7 +9,7 @@ categories:
   - RV
 tags:
   - XLMB
-  - Pleasure Way
+  - Pleasure-Way
   - Power
   - Solar
   - Air Mattress
@@ -26,13 +26,13 @@ This is covered in three parts:
 
 ## The Bad
 
-I'm going to start with the bad because I LOVE way more about our coach than I dislike.  We've worked around most of the gripes.  The rest may be fixable.  I have a few tiny gripes about the Pleasure Way XLMB.  I believe this product could have been improved with a few modest tweaks.  
+I'm going to start with the bad because I LOVE way more about our coach than I dislike.  We've worked around most of the gripes.  The rest may be fixable.  I have a few tiny gripes about the Pleasure-Way XLMB.  I believe this product could have been improved with a few modest tweaks.  
 
-For starters, the first time we tried to use our Wineguard auto-tune antenna it was broken.  I got online to read the docs and it appears our motor is either stuck or dead.  The dealership for our purchase hit buttons that made it appear like the unit was working.  It would flash and do random stuff and displayed random codes.  We were not familiar with the product and did not realize that E03 on the screen meant it was broken.  
+For starters, the first time we tried to use our Winegard auto-tune antenna it was broken.  I got online to read the docs and it appears our motor is either stuck or dead.  The dealership for our purchase hit buttons that made it appear like the unit was working.  It would flash and do random stuff and displayed random codes.  We were not familiar with the product and did not realize that E03 on the screen meant it was broken.  
 
-We spoke to Pleasure Way and it appears they may cover this under warranty.  I will cover our experience with the warranty process after we go through it.
+We spoke to Pleasure-Way and it appears they may cover this under warranty.  I will cover our experience with the warranty process after we go through it.
 
-I would like for Pleasure Way to provide a source of light on the utility side of the unit.  I've compensated with a headlamp but this seems like a simple thing to do and an unfortunate oversight.  We pull into a lot of campgrounds at night and it would have been easy to throw a couple LED lights on the drivers side near the utility bays.  
+I would like for Pleasure-Way to provide a source of light on the utility side of the unit.  I've compensated with a headlamp but this seems like a simple thing to do and an unfortunate oversight.  We pull into a lot of campgrounds at night and it would have been easy to throw a couple LED lights on the drivers side near the utility bays.  
 
 The bathroom has no ventilation to the outside.  Even though the exhaust vent is directly next to the bathroom door there is no way for air from outside the coach to enter into the bathroom.  Thus, the fan can't suck air out of the bathroom.  A tremendous amount of water from the steam in the shower builds up on the ceiling and walls.  This happens even with the exhaust fan on full blast _right next to the bathroom_.  We've had to introduce an additional fan to blow air out of the bathroom into the exhaust fan.  This work around prevents water from settling in the bathroom and should cut down on mold and wood rot.  
 

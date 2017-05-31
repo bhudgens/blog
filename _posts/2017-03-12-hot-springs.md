@@ -5,7 +5,7 @@ header:
   image: /assets/images/IMG_1548.jpg
   caption: Oaklawn Racetrack
 categories:
-  - Arkansas
+  - Reviews
 tags:
   - Arkansas
   - Hot Springs
