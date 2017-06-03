@@ -5,9 +5,14 @@ header:
   image: /assets/images/cover/iphone-7-pool-stock-photo.jpg
   caption:
 categories:
-  - Change Me
+  - Vandwelling
+  - RV
 tags:
-  - Change Me
+  - XLMB
+  - Pleasure-Way
+  - Vogt RV
+  - Winegard
+  - HD Antenna
 ---
 
 Our RV came with a [Winegard Power HD Antenna](https://www.amazon.com/Winegard-Automatic-RZ-8500-Ultra-HD-Amplified/dp/B00T36ONEG?th=1).  We did not try to turn it on for several weeks. I made a couple calls to RV when we first discovered the issue.  They sent a list of dealers.
