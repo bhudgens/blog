@@ -15,7 +15,7 @@ tags:
   - HD Antenna
 ---
 
-Our RV came with a [Winegard Power HD Antenna](https://www.amazon.com/Winegard-Automatic-RZ-8500-Ultra-HD-Amplified/dp/B00T36ONEG?th=1).  We did not try to turn it on for several weeks.  We watch TV very infrequently.  We were surprised to find out it didn't work when we first tried to use it.
+Our RV came with a [Winegard Power HD Antenna](https://www.amazon.com/gp/offer-listing/B00T36ONEG/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00T36ONEG&linkCode=am2&tag=chasingsixty-20&linkId=13ec73ca59a619811362e21845ef6081).  We did not try to turn it on for several weeks.  We watch TV very infrequently.  We were surprised to find out it didn't work when we first tried to use it.
 
 We purchased the RV at [Giant RV](http://www.giantrv.com/dealerinfo/infoview.asp?documentid=5) in California.  They did a decent job showing us everything about the RV.  We were not immediately familiar with the Winegard product.  The TV displayed channels during our orientation.  Additionally, the Winegard lights blinked and lights flashed.  We did not realize the blinky lights and the message on the screen actually meant "Error".
 
