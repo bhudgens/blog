@@ -2,7 +2,7 @@
 title: How to Become a Full Time RVer
 author: Alexis Jackson
 header:
-  image: /assets/images/oklahoma_windmills.jpg
+  image: /assets/images/cover/oklahoma_windmills.jpg
   caption:
 categories:
   - General

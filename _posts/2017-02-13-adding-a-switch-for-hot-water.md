@@ -2,7 +2,7 @@
 title: Moving Our Hot Water Switch
 author: Benjamin Hudgens
 header:
-  image: /assets/images/austin-360-bridge.jpg
+  image: /assets/images/cover/austin-360-bridge.jpg
   caption: Austin 360 Bridge
 categories:
   - Vandwelling
@@ -36,7 +36,7 @@ Since the On/Off button of the heater is outside, this means we have to go outsi
 
 ## The Solution
 
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/hot-water-button.jpg){: .align-right}
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/blog/hot-water-button.jpg){: .align-right}
 I did some research on the heater in our unit.  I learned that the model installed in our RV was modified in the middle of its production year.  Our unit did not have a remote but the newer units have a 'remote' that runs into the RV.  You can control the comfort settings from inside the RV.  
 
 The remote switch gave me an idea!  I might not be able to get the wires run to where they install the switch on **new** units; but!, what if I could flip the unit on-and-off inside the RV?  I could leave the settings outside on the water heater always set to **Comfort** and cut power to the unit inside.

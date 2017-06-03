@@ -2,7 +2,7 @@
 title: Heading Into The Ozarks
 author: Alexis Jackson
 header:
-  image: /assets/images/header/IMG_1468-Edit.jpg
+  image: /assets/images/cover/IMG_1468-Edit.jpg
   caption:
 categories:
   - National Parks
@@ -22,12 +22,12 @@ Before we headed into the forest, we needed to dump and top off on water. As I w
 
 ## KOA
 
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/IMG_1318.jpg){: .align-right}
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/blog/IMG_1318.jpg){: .align-right}
 While we had full hookups, we took the time to do some maintenance cleaning in our coach. For us this involves dumping completely and filling the black tank up to roughly 50% with some bleach mixed in. We also vacuum the entire coach, shake out our floor towels, bleach the bathroom, and in general do a deeper cleaning than our daily tidying up on the road. A dump hookup meant that we also had the luxury of taking as long of showers as we wanted since we didn't have to worry about filling our gray tank. When checkout time rolled around at 11AM, we were ready to go and headed off to the forest.
 
 ## Getting There
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/IMG_1322.jpg){: .align-left}
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/blog/IMG_1322.jpg){: .align-left}
 We took Hwy 23 north from I-40, along Pig Trail Scenic Byway. Even in the end of winter with little color or leaves on the trees it was a beautiful drive. The road is windy and there are parts of it that feel like driving through a tunnel of trees. I imagine it is an incredible drive in the spring and fall, and look forward to returning to this area. At one of the overlooks we stopped to fly the drones and try to get some photos. Photography is something we are both trying to spend more time doing this year. We've set up our RV to make both the drones and the cameras easily accessible for quick pull overs. After an hour or so of flying, we hopped back in and continued the drive.
 
 ## Trouble on the road
@@ -36,7 +36,7 @@ On Hwy 16 just passed Boston we saw a UPS truck pulled over on the side of the r
 
 ## Friday Night
 
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/IMG_6346_Aurora2017_HDR-Edit.jpg){: .align-right}
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/blog/IMG_6346_Aurora2017_HDR-Edit.jpg){: .align-right}
 By the time we got to the 6.9-mile dirt road to get to the trail head, it was 5PM and too late to do the full hike before dark. Already on the dirt road with few options to turn around in an RV, we found a small turnout on the right-side of the road that we decided to park in for the night. Ben flew his drone to get some air shots of the sunset, and I played around with the Canon to see if I could get some photos of the area.
 
 A member of the local dirt biking patrol stopped by and let us know that it was perfectly fine to stay overnight where we were, and that hunters stay there often. It was pretty awesome being parked in the middle of nowhere off of a dirt road, surrounded by trees and nothing else. Had we gotten any bigger of an RV, we wouldn't be able to just pull over like that.

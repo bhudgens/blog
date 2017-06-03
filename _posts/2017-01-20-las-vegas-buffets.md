@@ -2,7 +2,7 @@
 title: Las Vegas Strip Buffets
 author: Alexis Jackson
 header:
-  image: /assets/images/vegas.jpg
+  image: /assets/images/cover/vegas.jpg
   caption: "Mirage Hotel"
 categories:
   - Reviews
