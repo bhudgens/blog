@@ -23,4 +23,4 @@ The guy on the phone seemed annoyed I called.  After explaining the issue, and e
 
 This was my first experience with a [Pleasure-Way](http://pleasureway.com/) dealer so I was a bit concerned.  We called a different dealer, [Ron Hoover RV](http://www.ronhooversanantonio.com/), approximately 1.5 hours south of us.  I'm very glad we did.  The experience was great.  They were able to get us in immediately and their follow through was fantastic.  
 
-I'll cover more about our first warranty experience [here](http://chasingsixty.com/change%20me/Pleasure-Way-Warranty-Experience-1/).
+I'll cover more about our first warranty experience [here](http://chasingsixty.com/vandwelling/rv/Pleasure-Way-Warranty-Experience-1/).
