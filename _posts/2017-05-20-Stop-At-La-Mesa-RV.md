@@ -2,7 +2,7 @@
 title: Stopping At La Mesa RV
 author: Benjamin Hudgens
 header:
-  image: /assets/images/cover/iphone-7-pool-stock-photo.jpg
+  image: /assets/images/cover/glacier_east_exit.jpg
   caption:
 categories:
   - General
