@@ -32,6 +32,8 @@ For starters, the first time we tried to use our Winegard auto-tune antenna it w
 
 We spoke to Pleasure-Way and it appears they may cover this under warranty.  I will cover our experience with the warranty process after we go through it.
 
+(Update: You can read about our warranty experience [here](asdf.com) and [here](asdf.com).)
+
 I would like for Pleasure-Way to provide a source of light on the utility side of the unit.  I've compensated with a headlamp but this seems like a simple thing to do and an unfortunate oversight.  We pull into a lot of campgrounds at night and it would have been easy to throw a couple LED lights on the drivers side near the utility bays.  
 
 The bathroom has no ventilation to the outside.  Even though the exhaust vent is directly next to the bathroom door there is no way for air from outside the coach to enter into the bathroom.  Thus, the fan can't suck air out of the bathroom.  A tremendous amount of water from the steam in the shower builds up on the ceiling and walls.  This happens even with the exhaust fan on full blast _right next to the bathroom_.  We've had to introduce an additional fan to blow air out of the bathroom into the exhaust fan.  This work around prevents water from settling in the bathroom and should cut down on mold and wood rot.  
