@@ -15,7 +15,7 @@ tags:
   - Why we travel
 ---
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/blog/california.jpg){: .align-left}
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/article/california.jpg){: .align-left}
 
 My name is Benjamin and my goofy companion is Alex.  We are traveling full time for the next year.  We travel all over with a goal of chasing beautiful locations that are around sixty degrees.  Alex would prefer 110 degrees.  She is always cold. (<-- He's being exaggerative)  I personally love when it's freezing but we've found a way to compromise.
 
@@ -23,13 +23,13 @@ We started as long-trip vandwellers but maintained a residence back home.  Event
 
 ### Why did we start traveling?
 
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/blog/sequoia-selfie-small.jpg){: .align-right}
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/article/sequoia-selfie-small.jpg){: .align-right}
 
 There is not a super amazing story behind how we started.  I've spent a lifetime **doing** whatever crazy thing comes to mind.  I've been a lake rat, trekked around on motorcycles, and randomly gone on all sorts of fun adventures.  In fact, I had owned a RV with the intention to travel many years ago.  It didn't work out like I expected and I eventually parted ways with that home.
 
 I kept mentioning my desire to go on random trips to Alex (she's always game) and finally we did it for a few weeks.  That's all it took.  I was hooked.  We dipped our toe in the water and I was addicted.  We continued to go on new trips and each time it became more enticing.  Finally, we both decided we were not going to renew our apartment leases and we were going to do this full time.
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/blog/bluemangroup.jpg){: .align-left}
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/article/bluemangroup.jpg){: .align-left}
 
 ### What does Benjamin do for work?
 

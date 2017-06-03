@@ -14,7 +14,7 @@ tags:
 
 Finding a way to fly around in the snow has become a tradition at MusicFest.  This year was no exception.  The ranch had brand new snowmobiles.  They did not disappoint.
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/blog/tubing.jpg){: .align-left}
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/article/tubing.jpg){: .align-left}
 
 A few years ago a friend of mine randomly came across last-minute tickets to MusicFest.  I paid for the tickets and committed to going.  Last minute I did not make the trip.  He went on and had a great time.  While he was at Musicfest, he ran into an amazing group of folks who were seasoned veterans of Musicfest.  So last year I was able to tag along with this huge and amazing group of folks.  Last year was my first MusicFest.
 
