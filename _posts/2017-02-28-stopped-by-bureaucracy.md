@@ -2,7 +2,7 @@
 title: Stopped By Bureaucracy
 author: Benjamin Hudgens
 header:
-  image: /assets/images/2017-02-27-okc-sunset.jpg
+  image: /assets/images/cover/2017-02-27-okc-sunset.jpg
   caption: Oklahoma City Sunset
 categories:
   - Vandwelling

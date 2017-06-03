@@ -2,7 +2,7 @@
 title: Las Vegas and the Not-So-Waterproof iPhone
 author: Alexis Jackson
 header:
-  image: /assets/images/iphone-7-pool-stock-photo.jpg
+  image: /assets/images/cover/iphone-7-pool-stock-photo.jpg
   caption:
 categories:
   - Las-Vegas

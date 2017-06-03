@@ -2,7 +2,7 @@
 title: Using a Drone for Photos
 author: Benjamin Hudgens
 header:
-  image: /assets/images/from-the-sky.jpg
+  image: /assets/images/cover/from-the-sky.jpg
   caption: Random Farm House - Ozark Nat'l Forest
 categories:
   - Drone
@@ -16,12 +16,12 @@ Drones are a new and exciting option for taking photos and video in locations ot
 
 ## Photos With A Drone
 
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/IMG_6297.jpg){: .align-right}
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/blog/IMG_6297.jpg){: .align-right}
 Adding a drone into my camera arsenal has been exciting.  I'm able to capture shots you couldn't otherwise get.  I used the drone to travel ahead a couple miles and scope out our drive on our dirt road to make sure the RV wouldn't have any problems.  I've also been able to look over mountain ranges and fly down creeks to see if something is interesting to pursue.  It's been handy.
 
 Flying a drone comes with a bit of responsibility.  For starters, people hate change and drones are new.  Regulations for drones are rapidly evolving.  Law enforcement is often misinformed about who regulates drone use; and, this passes down to civilians being misinformed.  
 
-![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/DJI_0091.jpg){: .align-left}
+![image-left]({{ site.url }}{{ site.baseurl }}/assets/images/blog/DJI_0091.jpg){: .align-left}
 Drone use in National Forests is perfectly legal under the [most recent documentation released by the Nat'l Park Service](https://www.fs.fed.us/science-technology/fire/unmanned-aircraft-systems).  Park rangers will still tell people they are not legal.
 
 I was taking a picture of a sunset over a farm when a couple of people stopped to inform me that flying my drone was "highly illegal in National Forests".  You could tell they were annoyed and threatened to take my license plate.  I encouraged them to do so and patiently explained the law.  I explained that I'd be perfectly happy to wait and discuss this topic with a Park Ranger.  

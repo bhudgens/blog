@@ -2,7 +2,7 @@
 title: After A Couple Months - Part 2
 author: Benjamin Hudgens
 header:
-  image: /assets/images/pleasureway-xlmb.jpg
+  image: /assets/images/cover/pleasureway-xlmb.jpg
   caption: Our New Pleasure-Way Home
 categories:
   - Vandwelling

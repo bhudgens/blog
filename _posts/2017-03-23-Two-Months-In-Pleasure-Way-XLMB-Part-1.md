@@ -2,7 +2,7 @@
 title: After A Couple Months - Part 1
 author: Benjamin Hudgens
 header:
-  image: /assets/images/pleasureway-xlmb.jpg
+  image: /assets/images/cover/pleasureway-xlmb.jpg
   caption: Our New Pleasure-Way Home
 categories:
   - Vandwelling
@@ -34,7 +34,7 @@ We're able to get approximately six comfortable showers out of 30 gallons.  If w
 
 After we get cleaned up, I squeegee the shower and apply bleach if appropriate.  We setup fans to remove moisture from the air.  At this point, we'll start discussing where we want to work for the day.  Often we find ourselves headed towards Starbucks.  Sometimes we sit in a parking lot.  Sometimes we sit next to a river.  I love being able to choose every day.
 
-![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/IMG_1612.jpg){: .align-right}
+![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/blog/IMG_1612.jpg){: .align-right}
 Most work days are fairly long.  The average day is a 8AM - 9PM.  Sometimes its less but twelve hours is pretty common.  If we cut out early we will some times go to the movies.  Recently, we purchased a Nintendo Switch and Playstation 4 with VR.  Between World of Warcraft, Playstation VR, Plex, Netflix, and Nintendo we are usually busy spending time together watching movies or playing games in the evenings.
 
 When it gets later in the week we try to make an effort to be close to a destination we hope to visit for the weekend.  As I'm writing this, Alex is taking us to Charleston, SC.  It's 11:45PM.  That's our life!  =)  
