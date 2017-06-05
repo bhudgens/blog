@@ -1,0 +1,14 @@
+#! /usr/bin/env bash
+
+DIR="$(dirname $0)"
+GALLERIES_DIR="${DIR}/../assets/images/galleries"
+
+pushd "${GALLERIES_DIR}"
+
+for file in $(find . -type f -mindepth 1 -iname "*.jpg" | grep -v thumbnail); do
+  THUMBNAIL_FILE="${file}.thumbnail.jpg"
+  if [ ! -f "${THUMBNAIL_FILE}" ]; then
+    cp "${file}" "${THUMBNAIL_FILE}"
+    sips -Z 450 "${THUMBNAIL_FILE}"
+  fi
+done
