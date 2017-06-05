@@ -1,0 +1,161 @@
+#!/usr/bin/env node
+
+"use strict";
+
+/**********************************************************************
+ * Libraries
+ *********************************************************************/
+
+const config = require('../config/config.js');
+const fs = require('fs-promise');
+
+/**********************************************************************
+ * Logging Options:
+ *   logging - Enables any logging at all
+ *   debug - Enable extra output to help debug problem
+ *   verbose - OMG, you must be developing.  You probably don't want
+ *   $others - Any can be enabled/disabled but default to enabled
+ *********************************************************************/
+
+const log = require('iphb-logs');
+
+/**********************************************************************
+ * Help Text
+ *********************************************************************/
+
+/**
+ * Dynamically allow any config in our configuration file be
+ * overridden on the command line.
+ */
+let _configOverrides = [];
+for (let key in config) {
+  _configOverrides.push(`  --${key} <${key}>`);
+}
+
+/**
+ * See Docopts Syntax here:
+ *   http://bit.ly/1EQXdRe
+ */
+const help = `
+Usage:
+  command [options] -r <requiredparam>
+  command [options]
+
+Options:
+  -c --config                      Display the Environment
+  -d --debug                       Enable Debug Output
+  -h --help                        Show this help
+  -l --log                         Enable Log Output
+  -v --verbose                     Enable Verbose Output
+
+Additional Options:
+${_configOverrides.join('\n')}
+
+A generic command documentation you should change
+`;
+
+/** Process The Docopts */
+const docopt = require('docopt').docopt;
+const options = docopt(help);
+
+/** Handle dynamic config overrides */
+for (let option in options) {
+  if (options.hasOwnProperty(option) && options[option] && options[option] !== null) {
+    const optionWithoutDashes = option.replace(/^--/, "");
+    config[optionWithoutDashes] = options[option];
+  }
+}
+
+/** Respect log config */
+log.enable.debug = config.debug;
+log.enable.verbose = config.verbose;
+
+/**********************************************************************
+ * Setup
+ *********************************************************************/
+
+// Emit our command line options if debug is set
+log.debug("Command Line Settings:", options);
+
+/**
+ * Output our environment and quit
+ */
+if (options['--config']) {
+  // Force logging enabled
+  log.enable.logging = true;
+
+  // Make output look nice
+  let _message = [];
+  for (let key in config) {
+    if (key !== "descriptions") {
+      _message.push(`${key}=${config[key]}`);
+    }
+  }
+  log.info(`
+  ------------------------------------------------------------------
+  Configuration:
+  ------------------------------------------------------------------
+  ${_message.join('\n  ')}
+  ------------------------------------------------------------------
+  `);
+  process.exit(0);
+}
+
+/**********************************************************************
+ * Main
+ *********************************************************************/
+
+const _debug = msg => org => {
+  log.debug(msg);
+  log.verbose(org);
+  return org;
+};
+
+const _path = `${__dirname}/../_posts`;
+const _galleryPath = `${__dirname}/../assets/images/galleries`;
+
+const yaml = require('js-yaml');
+
+const generateDoc = (yaml, rest) => `---
+${yaml}---${rest}`;
+
+fs.readdir(_path)
+  .then(fileNames => fileNames.map(fileName =>
+    fs.readFile(`${_path}/${fileName}`, 'utf8')
+    .then(fileContent => {
+      const regex = /---([\s\S]+)---([\s\S]*)/;
+      const t = fileContent.match(regex);
+      const _yaml = t[1];
+      const _rest = t[2];
+      return [yaml.safeLoad(_yaml), _rest];
+    })
+    .then(_debug("Yaml"))
+    .then(splitDoc => {
+      const _yaml = splitDoc[0];
+      const _rest = splitDoc[1];
+      if (!_yaml["gallery-name"]) {
+        return;
+      }
+      delete _yaml.gallery;
+      return fs.readdir(`${_galleryPath}/${_yaml["gallery-name"]}`)
+      .then(files => files.filter(file => !~file.indexOf("thumbnail")))
+        .then(files => files.forEach(file => {
+          _yaml.gallery = _yaml.gallery || [];
+          _yaml.gallery.push({
+            image_path: `/assets/images/galleries/${_yaml["gallery-name"]}/${file}.thumbnail.jpg`,
+            url: `/assets/images/galleries/${_yaml["gallery-name"]}/${file}`
+          });
+        }))
+        .then(() => yaml.safeDump(_yaml))
+        .then(yamlText => {
+          const _document = generateDoc(yamlText, _rest);
+          fs.writeFile(`${_path}/${fileName}`, _document, 'utf8');
+        })
+        .catch(() => {
+          /** Do Nothing */
+        });
+    })))
+  .then(work => Promise.all(work))
+  .then(finished => finished.filter(r => r))
+  .then(r => log.info(r))
+  .catch(e => log.error(e.stack || e));
