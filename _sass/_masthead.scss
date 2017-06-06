@@ -3,23 +3,29 @@
    ========================================================================== */
 
 .masthead {
-  position: relative;
-  border-bottom: 1px solid $border-color;
-  -webkit-animation: intro 0.3s both;
-          animation: intro 0.3s both;
-  -webkit-animation-delay: 0.15s;
-          animation-delay: 0.15s;
+  position: fixed;
+  width: 100%;
+  // border-bottom: 1px solid $border-color;
+  // -webkit-animation: intro 0.3s both;
+  //         animation: intro 0.3s both;
+  // -webkit-animation-delay: 0.15s;
+  //         animation-delay: 0.15s;
   z-index: 20;
 
   &__inner-wrap {
-    @include container;
-    @include clearfix;
+    // @include container;
+    // // @include clearfix;
+    // // display: -webkit-box;
+    // // display: flex;
+    // -webkit-box-pack: justify;
+    //  justify-content: space-between;
+    // padding: .25em .25em .25em 1em;
     font-family: $sans-serif-narrow;
-    margin-left: inherit;
+    // margin-left: inherit;
 
-    @include breakpoint($x-large) {
-      max-width: $x-large;
-    }
+    // @include breakpoint($x-large) {
+    //   max-width: $x-large;
+    // }
 
     nav {
       z-index: 10;
@@ -32,9 +38,17 @@
 }
 
 .masthead__menu {
+  width: 100%;
+  background-color: #333;
+  .site-nav {
+    margin-left: 0;
+    @include breakpoint($small) {
+      float: right;
+    }
+  }
 
   ul {
-    margin: 0;
+    margin: 0 2em;
     padding: 0;
     clear: both;
     list-style-type: none;
