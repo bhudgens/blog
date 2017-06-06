@@ -39,14 +39,14 @@
 
 .masthead__menu {
   width: 100%;
-  background-color: #333;
+  background-color: none;
   .site-nav {
     margin-left: 0;
     @include breakpoint($small) {
       float: right;
     }
   }
-
+  
   ul {
     margin: 0 2em;
     padding: 0;
@@ -64,4 +64,241 @@
     padding-right: 2em;
     font-weight: 700;
   }
+}
+
+$dark-color: #000;
+$light-color: #fff;
+// General nav styles
+// See themes below for color changes
+nav {
+  &.transition{
+    -webkit-transition-property: color,border-color,background-color;
+    -moz-transition-property: color,border-color,background-color;
+    -o-transition-property: color,border-color,background-color;
+    transition-property: color,border-color,background-color;
+    -webkit-transition-duration: 300ms,300ms,300ms;
+    -moz-transition-duration: 300ms,300ms,300ms;
+    -o-transition-duration: 300ms,300ms,300ms;
+    transition-duration: 300ms,300ms,300ms;
+  }
+  li {
+    > a{
+      padding: 15px 0 5px 0 !important;
+      display: inline-block !important;
+      margin-bottom: 2px;
+      // Swap border for margin to avoid jump
+      &.phone-number {
+        display: none !important;
+      }
+      &:hover{
+        margin-bottom: 0;
+      }
+    }
+    .active a{
+      margin-bottom: 0;
+    }
+  }
+
+  // Light theme colors only
+  &.navbar-default {
+    padding-bottom: 10px;
+    background-color: $dark-gray !important;
+    color: $dark-color;
+    .btn-login,
+    .btn-language,
+    .navbar-toggle{
+      color: $dark-color;
+      border-color: #e0e0e0;
+    }
+    
+    a {
+      color: $light-color;
+    }
+    .navbar-toggle {
+      .icon-bar {
+        background: $dark-color;
+      }
+      &:hover &:active {
+        border-color: rgba(0,0,0,.4);
+        .icon-bar {
+          background: rgba(0,0,0,.6);
+        }
+      }
+    }
+
+    .dropdown-toggle, &.open a,
+    .dropdown-toggle a:active {
+      color: $dark-color !important;
+      background: transparent !important;
+    }
+    .dropdown-menu {
+      color: $dark-color;
+      background: $light-color;
+      border-color: #e0e0e0;
+    }
+    .navbar-brand, .navbar-brand:hover {
+      color: $dark-color;
+    }
+    .navbar-nav li {
+      > a {
+        color: $dark-color;
+        border-color: $light-color;
+      }
+      & > a:hover,
+      &.active > a:hover {
+        color: $dark-color;
+        background: transparent;
+        border-color: #e0e0e0;
+        -webkit-transition: border-bottom-color 0.1s linear;
+        -moz-transition: border-bottom-color 0.1s linear;
+        -o-transition: border-bottom-color 0.1s linear;
+        transition: border-bottom-color 0.1s linear;
+      }
+      &.active > a{
+        color: $dark-color;
+        background: transparent;
+        border-color: $dark-color !important;
+      }
+    }
+  }
+
+  // Dark theme colors only
+  &.navbar-inverse {
+    background: $dark-color;
+    color: $light-color;
+    border-color: $dark-color;
+    .btn-login,
+    .btn-language,
+    .navbar-toggle{
+      color: $light-color;
+      border-color: #383838;
+    }
+    .phone-number {
+      color: $light-color !important;
+      &:hover {
+        color: $light-color !important;
+      }
+    }
+
+    .navbar-brand, .navbar-brand:hover {
+      color: $light-color;
+    }
+
+    .navbar-nav li {
+      > a {
+        color: $light-color;
+        border-color: $dark-color;
+        // Font smoothing necessary on dark background
+        -webkit-font-smoothing: antialiased !important;
+        text-shadow: 1px 1px 1px rgba(0,0,0,0.004);
+      }
+
+      & > a:hover, &.active > a, &.active > a:hover {
+        color: $light-color;
+      }
+    }
+    .dropdown-toggle, &.open a, .dropdown-toggle a:active {
+      color: $light-color !important;
+      background: transparent !important;
+    }
+
+    .dropdown-menu {
+      color: $light-color;
+      background: $dark-color;
+      border-color: #383838;
+      li a{
+        color: $light-color;
+        // Font smoothing necessary on dark background
+        -webkit-font-smoothing: antialiased !important;
+        text-shadow: 1px 1px 1px rgba(0,0,0,0.004);
+      }
+    }
+    .navbar-nav li {
+      > a {
+        color: $light-color;
+      }
+      & > a:hover,
+      &.active > a,
+      &.active > a:hover {
+        color: $light-color;
+        background: transparent;
+        border-color: #f2f2f2;
+      }
+    }
+  }
+
+  // Transparent theme colors only
+  &.navbar-transparent {
+    background-color: rgba(255,255,255,0);
+    color: $light-color;
+    border-bottom-width: 0px;
+    .btn-login,
+    .btn-language,
+    .navbar-toggle{
+      color: $light-color;
+      border-color: #999999;
+    }
+    .navbar-toggle {
+      .icon-bar {
+        background: $light-color;
+      }
+    }
+    .collapsing,
+    .collapse.in{
+      background-color: #1f252a;
+    }
+
+    .phone-number {
+      color: $light-color !important;
+      &:hover {
+        color: $light-color !important;
+      }
+    }
+
+    .navbar-brand, .navbar-brand:hover {
+      color: $light-color;
+    }
+
+    .navbar-nav li {
+      text-align: center;
+      > a {
+        color: $light-color;
+        border-color: $dark-color;
+        // Font smoothing necessary on dark background
+        -webkit-font-smoothing: antialiased !important;
+        text-shadow: 1px 1px 1px rgba(0,0,0,0.004);
+      }
+
+      & > a:hover, &.active > a, &.active > a:hover {
+        color: $light-color;
+      }
+    }
+    .dropdown-toggle, &.open a, .dropdown-toggle a:active {
+      color: $light-color !important;
+      background: transparent !important;
+    }
+
+    .dropdown-menu {
+      color: $light-color;
+      background: $dark-color;
+      border-color: #383838;
+      li a{
+        color: $light-color;
+        // Font smoothing necessary on dark background
+        -webkit-font-smoothing: antialiased !important;
+        text-shadow: 1px 1px 1px rgba(0,0,0,0.004);
+      }
+    }
+    .navbar-nav li {
+      > a {
+        color: $light-color;
+      }
+      & > a:hover, &.active > a, &.active > a:hover {
+        color: $light-color;
+        background: transparent;
+        border-color: #f2f2f2;
+      }
+    }
+  }
+
 }
