@@ -18,11 +18,11 @@ $(function() {
     var scroll = $(window).scrollTop();
 
     if (scroll >= navFadeIn) {
-      $("nav").addClass("navfade navbar-default");
+      $("nav").addClass("navfade navbar-inverse");
       $('nav').removeClass("navbar-transparent");
     }
     else{
-      $("nav").removeClass("navfade navbar-default navbar-inverse");
+      $("nav").removeClass("navfade navbar-inverse navbar-inverse");
       $('nav').addClass("navbar-transparent");
     }
   });

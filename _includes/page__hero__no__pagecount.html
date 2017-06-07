@@ -26,15 +26,14 @@
   </div>
   {% if page.video %}
     <!-- <div class="page__hero--overlay"> -->
-      <video class="page__hero--overlay" src="/assets/videos/timelapse.mp4" autoplay poster="posterimage.jpg" type="video/mp4">
+      <video class="hidden-sm hidden-xs hidden-md page__hero--video" src="/assets/videos/timelapse.mp4" autoplay type="video/mp4">
 
       </video>
     <!-- </div> -->
-  {% else %}
+  {% endif %}
     <div class="page__hero{% if page.header.overlay_color or page.header.overlay_image %}--overlay{% endif %}"
       style="{% if page.header.overlay_color %}background-color: {{ page.header.overlay_color | default: 'transparent' }};{% endif %} {% if overlay_img_path %}background-image: {% if overlay_filter %}linear-gradient({{ overlay_filter }}, {{ overlay_filter }}), {% endif %}url('{{ overlay_img_path }}');{% endif %}">
     </div>
-  {% endif %}
   <div class="page__hero--copy">
     {% if page.header.overlay_color or page.header.overlay_image %}
       <div class="wrapper">
