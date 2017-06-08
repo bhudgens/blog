@@ -22,7 +22,7 @@
   {% elsif page.header.overlay_filter %}
     {% capture overlay_filter %}rgba(0, 0, 0, {{ page.header.overlay_filter }}){% endcapture %}
   {% endif %}
-  <div class="page__hero{% if page.header.overlay_color or page.header.overlay_image %}--landing-overlay{% endif %}">
+  <div class="page__hero{% if page.header.overlay_color %}--landing-overlay{% endif %}">
   </div>
   {% if page.video %}
     <!-- <div class="page__hero--overlay"> -->
