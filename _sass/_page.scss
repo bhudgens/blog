@@ -127,6 +127,8 @@
     display: block;
     position: relative;
     overflow: hidden;
+    height: 100vh;
+    vertical-align: middle;
   }
 
   &--landing-overlay {
@@ -145,7 +147,7 @@
   &--copy {
     position: relative;
     margin-bottom: 2em;
-    padding: 12em 0;
+    // padding: 20em 0;
     @include clearfix;
 
     a {
