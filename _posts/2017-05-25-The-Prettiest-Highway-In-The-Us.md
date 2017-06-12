@@ -5,9 +5,10 @@ header:
   image: /assets/images/cover/welcome_to_california.jpg
   caption:
 categories:
-  - Change Me
+  - General
 tags:
-  - Change Me
+  - Idaho
+  - I-15
 ---
 
 We've had the luxury of traveling to the [west coast](asdf.com) and the [east coast](asdf.com).  We are definitely intending to do more and we have not seen it all.  However, I keep coming back to the same conclusion.  Montana is our prettiest State.

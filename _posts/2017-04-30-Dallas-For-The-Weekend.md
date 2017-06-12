@@ -5,9 +5,10 @@ header:
   image: /assets/images/cover/glacier_east_exit.jpg
   caption:
 categories:
-  - Change Me
+  - General
 tags:
-  - Change Me
+  - Texas
+  - Dallas
 ---
 
 Spent the weekend boondocking in Dallas to visit some friends.  One of my best friends purchased a house years ago.  I managed to see him a couple times but never made it to his place.  It was time to change that.

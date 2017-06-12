@@ -5,9 +5,11 @@ header:
   image: /assets/images/cover/vegas.jpg
   caption: "Mirage Hotel"
 categories:
-  - Change Me
+  - General
 tags:
-  - Change Me
+  - Las Vegas, NV
+  - Aria
+  - Venetian
 ---
 
 A friend of ours was turning 40 and it corresponded with our tour to Alaska.  We decided to meet them in Las Vegas for a day and hang out at the pool.
