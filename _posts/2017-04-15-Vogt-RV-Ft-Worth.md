@@ -21,6 +21,6 @@ When we got home we called a couple of their dealers.  One of those dealers is [
 
 The guy on the phone seemed annoyed I called.  After explaining the issue, and explaining the conversation I had with the factory, the guy proclaims it will be months before I can get in the door.  
 
-This was my first experience with a [Pleasure-Way](http://pleasureway.com/) dealer so I was a bit concerned.  We called a different dealer, [Ron Hoover RV](http://www.ronhooversanantonio.com/), approximately 1.5 hours south of us.  I'm very glad we did.  The experience was great.  They were able to get us in immediately and their follow through was fantastic.  
+This was my first experience with a [Pleasure-Way](http://pleasureway.com/plateau-xlmb/) dealer so I was a bit concerned.  We called a different dealer, [Ron Hoover RV](http://www.ronhooversanantonio.com/), approximately 1.5 hours south of us.  I'm very glad we did.  The experience was great.  They were able to get us in immediately and their follow through was fantastic.  
 
 I'll cover more about our first warranty experience [here](http://chasingsixty.com/vandwelling/rv/Pleasure-Way-Warranty-Experience-1/).

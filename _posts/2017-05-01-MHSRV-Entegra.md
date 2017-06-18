@@ -7,7 +7,9 @@ header:
 categories:
   - General
 tags:
-  - Change Me
+  - Texas
+  - Motorhome Specialist RV
+  - MHSRV
 ---
 
 Alex and I regularly talk about what we're going to do as we finish all our aggressive travel.  One idea is to move into a large RV (again).  We aren't sure yet but we sometimes look around.

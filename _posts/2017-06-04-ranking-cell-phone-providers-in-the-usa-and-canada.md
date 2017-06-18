@@ -14,7 +14,7 @@ One of the compromises of our lifestyle is that we need to be connected at all t
 
 ## Our Devices And Situation
 
-Two of our devices are Android and we use them with our VR headsets.  We do not use those phones for any other purpose.  They were purchased to be "internet hotspots".  We each have an iPhone as our primary devices.  We then have an iPhone dedicated to Waze and an additional iPhone dedicated to our [drone](asdf.com).  Finally, we each have our own iPad.
+Two of our devices are Android and we use them with our VR headsets.  We do not use those phones for any other purpose.  They were purchased to be "internet hotspots".  We each have an iPhone as our primary devices.  We then have an iPhone dedicated to Waze and an additional iPhone dedicated to our [drone](http://www.dji.com/mavic).  Finally, we each have our own iPad.
 
 We started with all eight devices on AT&T.  When T-Mobile pushed out their new T-Mobile ONE plan it really pushed me into testing other carriers.  I had tried both Verizon and T-Mobile years ago.  At that time their service was not that great and I was dropping calls frequently.  Things have changed!
 

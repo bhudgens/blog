@@ -5,12 +5,13 @@ header:
   image: /assets/images/cover/welcome_to_california.jpg
   caption:
 categories:
-  - Change Me
+  - General
 tags:
-  - Change Me
+  - Canada
+  
 ---
 
-We woke up early on the side of the road down the street from the border crossing.  We stayed up late for our very first and lucky [Northern Lights](asdf.com) display.  We decided to sleep-in a tiny bit but we still got an early start.  Our first day in Canada was a learning experience.
+We woke up early on the side of the road down the street from the border crossing.  We stayed up late for our very first and lucky [Northern Lights](http://chasingsixty.com/general/canada-border-northern-lights/) display.  We decided to sleep-in a tiny bit but we still got an early start.  Our first day in Canada was a learning experience.
 
 Our first introduction to Canada was the border crossing guard.  She was incredibly friendly and gave us all sorts of useful information about what to expect.  Everything aside from the wind.  
 
@@ -22,6 +23,6 @@ Canada is a little different and a blend of both the above concepts.  I was expe
 
 We happened to cross into Canada on an extremely windy day.  We had not encountered wind like this in all of our adventures.  It made driving our first day a bit stressful.  The sustained winds were only 30mph.  To me this doesn't feel or seem like much.  You just have to correctively turn the wheel against the wind.  The wind gusts are another story.  If we weren't out away from all forms of life I'm certain we would have been blown into other drivers.  Thankfully we had the road to ourselves for hours.
 
-Canada is based on the metric system.  Our [Pleasure Way](asdf.com) doesn't have kilometer readings on the speedometer.  We've talked about [apps we find useful](asdf.com) before.  Our good ole' friend Waze came to the rescue.  We have Waze setup to always display our speedWe were able to set Waze to kilometer-per-hour.   
+Canada is based on the metric system.  Our [Pleasure Way](http://pleasureway.com/plateau-xlmb/) doesn't have kilometer readings on the speedometer.  We've talked about [apps we find useful](http://chasingsixty.com/tools/apps/handy-sites-and-apps/) before.  Our good ole' friend Waze came to the rescue.  We have Waze setup to always display our speedWe were able to set Waze to kilometer-per-hour.   
 
 We also have Waze setup to automatically notify us if we are going 5+ over the speed limit.  This really helps when you reach small towns where the town has dramatically reduced the speeds.  Waze will automatically make an audible tone and let you know the speed changed and you need to slow down.  The traffic avoidance built into Waze is the best we've seen so far but it has really become an invaluable tool for our travels.

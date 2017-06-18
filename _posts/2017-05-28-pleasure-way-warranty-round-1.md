@@ -5,16 +5,17 @@ header:
   image: /assets/images/cover/welcome_to_california.jpg
   caption:
 categories:
-  - Change Me
+  - Pleasure-Way
+  - Plateau XLMB
 tags:
-  - Change Me
+  - Warranty
 ---
 
-It was not our original plan to visit the [Pleasure Way headquarters](asdf.com).  We noticed some defects in our paint several weeks after [owning our new RV](asdf.com).  They weren't terrible but we were concerned it would be a factor for resale.  As luck would have it Pleasure-Way Industries is only slightly out of the way towards Alaska.  We scheduled a visit and boy are we glad we did...
+It was not our original plan to visit the [Pleasure Way headquarters](https://www.google.com/maps/place/Pleasure-Way+Industries+Ltd/@52.0920193,-106.6657117,17z/data=!3m1!4b1!4m5!3m4!1s0x5304f0e5a69f9865:0x245f7b29bbca7834!8m2!3d52.092016!4d-106.663523).  We noticed some defects in our paint several weeks after [owning our new RV](http://pleasureway.com/plateau-xlmb/).  They weren't terrible but we were concerned it would be a factor for resale.  As luck would have it Pleasure-Way Industries is only slightly out of the way towards Alaska.  We scheduled a visit and boy are we glad we did...
 
 ## The Problem
 
-We had a [pleasant experience](asdf.com) with [Pleasure Way](asdf.com) before.  Having come from a different brand of RV I'm always skeptical of Warranties.  I did not have a good experience with my previous RV and the warranty folks with that RV tried every which way to wiggle out of any obligation.  I was often stuck with the bill for faulty parts, labor, and materials.  Even after having a good experience with Pleasure way already I wasn't convinced they wouldn't try to find a way out of covering paint issues.
+We had a [pleasant experience](asdf.com) with [Pleasure Way](http://pleasureway.com/) before.  Having come from a different brand of RV I'm always skeptical of Warranties.  I did not have a good experience with my previous RV and the warranty folks with that RV tried every which way to wiggle out of any obligation.  I was often stuck with the bill for faulty parts, labor, and materials.  Even after having a good experience with Pleasure way already I wasn't convinced they wouldn't try to find a way out of covering paint issues.
 
 The worst part of this entire experience happened on the way to Pleasure Way.  In Las Vegas we noticed someone had backed into our coach leaving some black scuffs on the bumper.  That always pisses you off and you wish you could catch the person.  It wasn't immediately obvious to me the first day we saw the damage but Alex pointed out a day later that the marks on our bumper were under the paint defects.  The paint defects were on the "back" of the coach up towards the middle and the scuff on the bumper was low by the lights.  We couldn't be sure if someone had hit us _before_ or _after_ our paint was damaged.  We've been with our coach almost the whole time we've had it so we can't be sure *when* it happened.  
 
