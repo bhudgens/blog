@@ -14,14 +14,14 @@ gallery-name: banff
 gallery:
   - image_path: /assets/images/galleries/banff/FullSizeRender.jpg.thumbnail.jpg
     url: /assets/images/galleries/banff/FullSizeRender.jpg
-  - image_path: /assets/images/galleries/banff/IMG_0842.jpg.thumbnail.jpg
-    url: /assets/images/galleries/banff/IMG_0842.jpg
-  - image_path: /assets/images/galleries/banff/IMG_1393.jpg.thumbnail.jpg
-    url: /assets/images/galleries/banff/IMG_1393.jpg
-  - image_path: /assets/images/galleries/banff/IMG_1747.jpg.thumbnail.jpg
-    url: /assets/images/galleries/banff/IMG_1747.jpg
-  - image_path: /assets/images/galleries/banff/IMG_2108.jpg.thumbnail.jpg
-    url: /assets/images/galleries/banff/IMG_2108.jpg
+  - image_path: /assets/images/galleries/banff/IMG_0842.JPG.thumbnail.jpg
+    url: /assets/images/galleries/banff/IMG_0842.JPG
+  - image_path: /assets/images/galleries/banff/IMG_1393.JPG.thumbnail.jpg
+    url: /assets/images/galleries/banff/IMG_1393.JPG
+  - image_path: /assets/images/galleries/banff/IMG_1747.JPG.thumbnail.jpg
+    url: /assets/images/galleries/banff/IMG_1747.JPG
+  - image_path: /assets/images/galleries/banff/IMG_2108.JPG.thumbnail.jpg
+    url: /assets/images/galleries/banff/IMG_2108.JPG
   - image_path: /assets/images/galleries/banff/IMG_6798-Edit.jpg.thumbnail.jpg
     url: /assets/images/galleries/banff/IMG_6798-Edit.jpg
   - image_path: /assets/images/galleries/banff/IMG_6803.jpg.thumbnail.jpg
