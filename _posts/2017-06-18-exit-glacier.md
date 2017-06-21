@@ -25,3 +25,7 @@ Once you cross the border into the Kenai Fjords National Park you'll notice sign
 
 We decided to take the 0.6 mile hike to the glacier's edge from the Nature Center. Almost completely uphill, the hike took maybe 20 minutes counting pauses to allow people to pass in narrower sections. The hike was pretty easy aside from the uphill aspect. Just be sure to watch for loose gravel in some sections so you don't slip! On the trail we got fairly warm with the sun on us and no wind. I started to regret wearing long sleeves and a vest. Until we got to the glacier edge. At the edge of the glacier where the trees break, the wind kicks up. And I mean kicks up. I had to hold my hair down to take photos and the temperature must have dropped at least 15 degrees. All of a sudden I was incredibly happy to have my vest, and even that almost wasn't enough. 
 
+<figure class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/article/IMG_3617.jpg" alt="">
+  <figcaption>The wind whipping my hair around - much to my humor.</figcaption>
+</figure>
