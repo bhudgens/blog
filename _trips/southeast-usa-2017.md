@@ -2,7 +2,7 @@
 title: Southeastern USA - 2017
 author: Alexis Jackson
 header:
-  teaser: /assets/images/cover/DJI_0175_Aurora2017_HDR.jpg
+  teaser: /assets/images/article/DJI_0175_Aurora2017_HDR.jpg
   image: /assets/images/cover/DJI_0175_Aurora2017_HDR.jpg
 categories:
   - General
