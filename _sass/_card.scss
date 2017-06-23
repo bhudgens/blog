@@ -4,18 +4,24 @@
 }
 
 .card {
-  padding: 10px;
+  padding: 15px;
   border: 1px solid $light-gray;
   border-radius: 4px;
-  box-shadow: $box-shadow;
+  box-shadow: 3px 3px 1px rgba(0, 0, 0, 0.125);
   overflow: visible;
   margin-bottom: 2em;
   position: relative;
+  margin: auto;
   
   @include breakpoint(max-width ($small - 1px)) {
     height: 400px;
+    max-width: 357px;
   }
-  
+}
+
+.card:hover {
+  box-shadow: 0 0 1px 3px rgba(0, 0, 0, 0.125);
+  // background-color: $lighter-gray;
 }
 
 .card__teaser {
@@ -31,16 +37,20 @@
 
 
 .card__body {
-  // width: 70%;
   display: inline-block;
-  padding-left: 10px;
+  padding: 0px 10px;
   position: absolute;
-  margin: 0;
+  margin-left: 10px;
   
   @include breakpoint(max-width ($small - 1px)) {
     position: relative;
     margin-top: 15px;
+    margin-left: 0;
     padding-left: 0;
+  }
+  
+  p {
+    margin: 10px 0;
   }
 }
 
