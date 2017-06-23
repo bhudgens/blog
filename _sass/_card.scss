@@ -3,6 +3,14 @@
   border-bottom: 1px solid $border-color;
 }
 
+
+a.fill-div {
+  display: block;
+  height: 100%;
+  width: 100%;
+  text-decoration: none;
+}
+
 .card__wrapper {
   @include clearfix();
   margin: 2em;
@@ -26,7 +34,6 @@
 
 .card:hover {
   box-shadow: 0 0 1px 3px rgba(0, 0, 0, 0.125);
-  // background-color: $lighter-gray;
 }
 
 .card__teaser {
@@ -39,7 +46,6 @@
   }
 
 }
-
 
 .card__body {
   display: inline-block;
@@ -62,4 +68,5 @@
 .card__heading {
   font-size: 18px;
   margin: 0;
+  text-decoration: underline;
 }

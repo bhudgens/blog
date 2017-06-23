@@ -10,15 +10,14 @@
   {% assign title = post.title %}
 {% endif %}
 
-<div class="card"><a href="{{ post.url | absolute_url }}">
-  <div class="card__teaser">
-    <img src="{{ teaser }}">
-  </div>
-  <div class="card__body">
-    <h4 class="card__heading">
-      <a href="{{ post.url | absolute_url }}">{{ title }}</a>
-    </h4>
-    <p>{{ post.excerpt }}</p>
-  </div>
-</a>
+<div class="card">
+  <a href="{{ post.url | absolute_url }}" class="fill-div">
+    <div class="card__teaser">
+      <img src="{{ teaser }}">
+    </div>
+    <div class="card__body">
+      <h4 class="card__heading">{{ title }}</h4>
+      <p>{{ post.excerpt }}</p>
+    </div>
+  </a>
 </div>
