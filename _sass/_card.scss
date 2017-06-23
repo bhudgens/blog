@@ -1,0 +1,24 @@
+.card {
+  padding: 10px;
+  border: 1px solid;
+  border-color: gray;
+  border-radius: 4px;
+  box-shadow: 10px 10px 5px #888888;
+}
+
+.card__left {
+  width: 30%;
+}
+
+img {
+  width: 100%;
+}
+
+.card__body {
+  width: 70%;
+  padding-left: 10px;
+}
+
+.card__heading {
+  font-size: 18px;
+}
