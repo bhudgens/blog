@@ -11,7 +11,7 @@ tags:
   
 ---
 
-We woke up early on the side of the road down the street from the border crossing.  We stayed up late for our very first and lucky [Northern Lights](http://chasingsixty.com/general/canada-border-northern-lights/) display.  We decided to sleep-in a tiny bit but we still got an early start.  Our first day in Canada was a learning experience.
+We woke up early on the side of the road down the street from the border crossing.  We stayed up late for our very first and lucky Northern Lights display.  We decided to sleep-in a tiny bit but we still got an early start.  Our first day in Canada was a learning experience.  
 
 Our first introduction to Canada was the border crossing guard.  She was incredibly friendly and gave us all sorts of useful information about what to expect.  Everything aside from the wind.  
 

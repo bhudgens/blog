@@ -11,7 +11,7 @@ tags:
   - Warranty
 ---
 
-It was not our original plan to visit the [Pleasure Way headquarters](https://www.google.com/maps/place/Pleasure-Way+Industries+Ltd/@52.0920193,-106.6657117,17z/data=!3m1!4b1!4m5!3m4!1s0x5304f0e5a69f9865:0x245f7b29bbca7834!8m2!3d52.092016!4d-106.663523).  We noticed some defects in our paint several weeks after [owning our new RV](http://pleasureway.com/plateau-xlmb/).  They weren't terrible but we were concerned it would be a factor for resale.  As luck would have it Pleasure-Way Industries is only slightly out of the way towards Alaska.  We scheduled a visit and boy are we glad we did...
+It was not our original plan to visit the Pleasure Way headquarters.  We noticed some defects in our paint several weeks after owning our new RV.  They weren't terrible but we were concerned it would be a factor for resale.  As luck would have it Pleasure-Way Industries is only slightly out of the way towards Alaska.  We scheduled a visit and boy are we glad we did...
 
 ## The Problem
 

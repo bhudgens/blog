@@ -11,7 +11,7 @@ tags:
   - I-15
 ---
 
-We've had the luxury of traveling to the [west coast](asdf.com) and the [east coast](asdf.com).  We are definitely intending to do more and we have not seen it all.  However, I keep coming back to the same conclusion.  Montana is our prettiest State.
+We've had the luxury of traveling to the west coast and the east coast.  We are definitely intending to do more and we have not seen it all.  However, I keep coming back to the same conclusion.  Montana is our prettiest State.
 
 Heading north from Las Vegas towards Alaska allowed us to travel on roads we haven't traveled yet.  Part of this particular journey was through a familiar interstate in Utah.  Utah was one of the [first places](asdf.com) we visited when we started this vandwelling life adventure.  Zion National Park is a beautiful place to visit and traveling through the State of Utah is beautiful any time of year.
 

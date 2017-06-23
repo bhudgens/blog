@@ -22,9 +22,8 @@ a.fill-div {
   border-radius: 4px;
   box-shadow: 3px 3px 1px rgba(0, 0, 0, 0.125);
   overflow: visible;
-  margin-bottom: 2em;
+  margin: 2em auto;
   position: relative;
-  margin: auto;
   
   @include breakpoint(max-width ($small - 1px)) {
     height: 400px;

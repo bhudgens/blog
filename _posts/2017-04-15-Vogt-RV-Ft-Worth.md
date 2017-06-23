@@ -15,7 +15,7 @@ tags:
   - HD Antenna
 ---
 
-Our RV came with a [Winegard Power HD Antenna](https://www.amazon.com/Winegard-Automatic-RZ-8500-Ultra-HD-Amplified/dp/B00T36ONEG?th=1).  We did not try to turn it on for several weeks. I made a couple calls to RV when we first discovered the issue.  They sent a list of dealers.
+Our RV came with a Winegard Power HD Antenna.  We did not try to turn it on for several weeks. I made a couple calls to RV when we first discovered the issue.  They sent a list of dealers.
 
 When we got home we called a couple of their dealers.  One of those dealers is [Vogt RV](http://www.vogtrv.com/) in Ft. Worth, TX.  It was a bit challenging to get a service manager on the phone.  Once we finally got someone on the phone I'm not sure I've ever talked to someone so disinterested in their job.  
 

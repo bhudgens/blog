@@ -11,7 +11,7 @@ tags:
   - Tennessee
 ---
 
-After spending a week in [Hot Springs, AR](http://chasingsixty.com/reviews/hot-springs/), we decided we wanted to wake up next to the Mississippi River. 
+After spending a week in Hot Springs, AR, we decided we wanted to wake up next to the Mississippi River. 
 
 ![image-right]({{ site.url }}{{ site.baseurl }}/assets/images/article/IMG_1561.jpg){: .align-right}
 We stayed for four nights at the [Tom Sawyer RV Park](http://tomsawyerrvpark.com/) on the west side of the Mississippi River. It was just our luck that it rained the entire time. On our second night at the park, we were fortunate enough to be able to move to a spot right next to the river. We had an unopposed view of the river to watch all of the big barges go by. 

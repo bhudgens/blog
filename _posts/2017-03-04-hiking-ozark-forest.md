@@ -2,7 +2,7 @@
 title: Whitaker Point - Hawksbill Crag
 author: Benjamin Hudgens
 header:
-  image: /assets/images/header/DJI_0017.jpg
+  image: /assets/images/cover/DJI_0017.jpg
   caption: Hawksbill Crag
 categories:
   - Hiking
