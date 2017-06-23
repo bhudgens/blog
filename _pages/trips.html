@@ -1,6 +1,5 @@
 ---
-layout: splash-no-page-number
-title: "Our Trips"
+layout: card-list
 permalink: /trips/
 author_profile: false
 header:
@@ -11,7 +10,7 @@ header:
 excerpt: 'View our adventure routes...'
 ---
 
-<!-- <div class="grid__wrapper"> -->
+<div class="card-list__title"><h1><a name="trips"></a>Our Trips</h1></div>
 <div class="card__wrapper">
   {% for post in site.trips %}
     {% include article-card.html type="grid" %}

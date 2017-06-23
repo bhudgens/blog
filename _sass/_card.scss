@@ -1,6 +1,11 @@
+.card-list__title {
+  margin: 2em;
+  border-bottom: 1px solid $border-color;
+}
+
 .card__wrapper {
   @include clearfix();
-  margin-bottom: 2em;
+  margin: 2em;
 }
 
 .card {
