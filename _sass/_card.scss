@@ -1,24 +1,50 @@
+.card__wrapper {
+  @include clearfix();
+  margin-bottom: 2em;
+}
+
 .card {
   padding: 10px;
-  border: 1px solid;
-  border-color: gray;
+  border: 1px solid $light-gray;
   border-radius: 4px;
-  box-shadow: 10px 10px 5px #888888;
+  box-shadow: $box-shadow;
+  overflow: visible;
+  margin-bottom: 2em;
+  position: relative;
+  
+  @include breakpoint(max-width ($small - 1px)) {
+    height: 400px;
+  }
+  
 }
 
-.card__left {
-  width: 30%;
+.card__teaser {
+  // width: 30%;
+  display: inline-block;
+  max-width: 30%;
+  
+  @include breakpoint(max-width ($small - 1px)) {
+    max-width: 327px;
+  }
+
 }
 
-img {
-  width: 100%;
-}
 
 .card__body {
-  width: 70%;
+  // width: 70%;
+  display: inline-block;
   padding-left: 10px;
+  position: absolute;
+  margin: 0;
+  
+  @include breakpoint(max-width ($small - 1px)) {
+    position: relative;
+    margin-top: 15px;
+    padding-left: 0;
+  }
 }
 
 .card__heading {
   font-size: 18px;
+  margin: 0;
 }

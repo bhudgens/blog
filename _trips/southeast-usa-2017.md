@@ -14,7 +14,9 @@ tags:
   - South Carolina
 ---
 
-At the end of February we left Austin and headed our way east. I didn't care where we ended up so long as we visited Savannah, Georgia. Along the way we slept in the woods, spent a week in Hot Springs, Arkansas, and sat staring out at the bay in Charleston, South Carolina.
+At the end of February we left Austin and headed our way east. I didn't care where we ended up so long as we visited Savannah, Georgia. 
+
+Along the way we slept in the woods, spent a week in Hot Springs, Arkansas, and sat staring out at the bay in Charleston, South Carolina.
 
 
 <div style="display: block; margin: auto;">
