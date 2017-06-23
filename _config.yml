@@ -155,6 +155,12 @@ incremental: false
 location:
   url: 'https://www.google.com/maps/d/u/0/embed?mid=1E5aj_U1hcfTsbbPDxdurcQMiaQc'
 
+# Collections for things like Maps
+collections:
+  trips:
+    output: true
+    permalink: /:collection/:path/
+
 # Markdown Processing
 kramdown:
   input: GFM
@@ -240,6 +246,17 @@ defaults:
   - scope:
       path: ""
       type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: # true
+      share: true
+      related: true
+  # _trips
+  - scope:
+      path: ""
+      type: trips
     values:
       layout: single
       author_profile: true

@@ -1,0 +1,18 @@
+---
+layout: splash-no-page-number
+title: "Our Trips"
+permalink: /trips/
+author_profile: false
+header:
+  overlay_color: '#5e616c'
+  overlay_image: /assets/images/cover/DJI_0158.jpg
+  cta_label: "<i class='fa fa-book'></i> View Maps"
+  cta_url: "/trips/#trips"
+excerpt: 'View our adventure routes...'
+---
+
+<div class="grid__wrapper">
+  {% for post in site.trips %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>

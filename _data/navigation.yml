@@ -6,6 +6,8 @@ main:
     url: /where-are-we
   - title: "About Us"
     url: /aboutus
+  - title: "Our Trips"
+    url: /trips
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
   #   url: /year-archive/
