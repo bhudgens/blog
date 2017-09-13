@@ -2,7 +2,7 @@
 title: The Prettiest Highway In The US - I-15 N - Spring Time
 author: Benjamin Hudgens
 header:
-  image: /assets/images/cover/welcome_to_california.jpg
+  image: /assets/images/cover/DJI_0142.jpg
   caption:
 categories:
   - General

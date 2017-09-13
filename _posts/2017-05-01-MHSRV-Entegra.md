@@ -2,7 +2,7 @@
 title: Window Shopping
 author: Benjamin Hudgens
 header:
-  image: /assets/images/cover/iphone-7-pool-stock-photo.jpg
+  image: /assets/images/cover/entegra.jpg
   caption:
 categories:
   - General

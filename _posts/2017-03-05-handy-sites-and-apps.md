@@ -2,7 +2,7 @@
 title: Handy Sites and Apps
 author: Alexis Jackson
 header:
-  image: /assets/images/cover/oklahoma_windmills.jpg
+  image: /assets/images/cover/handysitesapps.jpg
   caption:
 categories:
   - Tools

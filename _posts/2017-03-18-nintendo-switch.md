@@ -2,7 +2,7 @@
 title: The Hunt for a Nintendo Switch
 author: Alexis Jackson
 header: 
-  image: /assets/images/cover/glacier_east_exit.jpg
+  image: /assets/images/cover/nintendoswitch.jpg
 categories:
   - General
 tags:

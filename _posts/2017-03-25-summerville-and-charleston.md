@@ -2,7 +2,7 @@
 title: Summerville and Charleston, SC
 author: Alexis Jackson
 header: 
-  image: /assets/images/cover/glacier_east_exit.jpg
+  image: /assets/images/cover/IMG_6616_Aurora2017_HDR.jpg
 categories:
   - General
 tags:

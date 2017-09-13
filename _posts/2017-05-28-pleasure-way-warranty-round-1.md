@@ -2,7 +2,7 @@
 title: Pleasure Way Warranty Experience - Round Two
 author: Benjamin Hudgens
 header:
-  image: /assets/images/cover/welcome_to_california.jpg
+  image: /assets/images/cover/plheadquarters.jpg
   caption:
 categories:
   - Pleasure-Way

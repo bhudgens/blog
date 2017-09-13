@@ -2,7 +2,7 @@
 title: Wildlife Along the Alcan Highway
 author: Alexis Jackson
 header:
-  image: /assets/images/cover/glacier_east_exit.jpg
+  image: /assets/images/cover/IMG_5263.jpg
 categories:
   - General
 tags:

@@ -2,7 +2,7 @@
 title: Our Tiny Stay In Saskatoon
 author: Benjamin Hudgens
 header:
-  image: /assets/images/cover/welcome_to_california.jpg
+  image: /assets/images/cover/saskatoon.jpg
   caption:
 categories:
   - Change Me

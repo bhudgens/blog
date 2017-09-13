@@ -2,7 +2,7 @@
 title: Chattanooga, TN
 author: Alexis Jackson
 header: 
-  image: /assets/images/cover/glacier_east_exit.jpg
+  image: /assets/images/cover/chattanooga.jpg
 categories:
   - General
 tags:

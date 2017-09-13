@@ -2,7 +2,7 @@
 title: Into Canada - Our First Day
 author: Benjamin Hudgens
 header:
-  image: /assets/images/cover/welcome_to_california.jpg
+  image: /assets/images/cover/saskatchewan.jpg
   caption:
 categories:
   - General

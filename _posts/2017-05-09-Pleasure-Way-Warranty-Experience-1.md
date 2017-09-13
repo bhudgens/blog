@@ -2,7 +2,7 @@
 title: Winegard Power HD Antenna Repair
 author: Benjamin Hudgens
 header:
-  image: /assets/images/cover/glacier_east_exit.jpg
+  image: /assets/images/cover/ronhooverrv.jpg
   caption:
 categories:
   - Vandwelling

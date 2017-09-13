@@ -2,7 +2,7 @@
 title: Dallas For The Weekend
 author: Benjamin Hudgens
 header:
-  image: /assets/images/cover/glacier_east_exit.jpg
+  image: /assets/images/cover/yoshishabushabu.jpg
   caption:
 categories:
   - General

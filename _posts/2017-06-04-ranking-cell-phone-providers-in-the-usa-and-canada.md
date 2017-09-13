@@ -2,7 +2,7 @@
 title: Cell Phone Providers - Our Experiences
 author: Benjamin Hudgens
 header:
-  image: /assets/images/cover/welcome_to_california.jpg
+  image: /assets/images/cover/phones.jpg
   caption:
 categories:
   - Change Me
