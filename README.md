@@ -22,3 +22,12 @@
 - [ ] 10/22/2017 - Week 2
 - [ ] 10/29/2017 - Week 3
 - [ ] 11/05/2017 - Week 4
+
+
+
+# Potential Names
+
+- CodingNowhere
+- TechnicallyHome
+- CoderYonder
+- CodeAround
