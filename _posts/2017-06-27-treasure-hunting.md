@@ -2,7 +2,7 @@
 title: Hunting For Treasure In The Rockies
 author: Benjamin Hudgens
 header:
-  image: /assets/images/cover/phones.jpg
+  image: /assets/images/cover/IMG_7416.CR2.jpg
   caption:
 categories:
   - Change Me
