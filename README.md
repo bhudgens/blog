@@ -1,7 +1,7 @@
 # TODO
 
-- [ ] 06/27/2017 - Tues 1AM - White Horse - Treasure!!!
-- [ ] 06/28/2017 - Weds 7AM - Crossing Into the USA - Ass hole border crossing agent - Sweet grass
+- [X] 06/27/2017 - Tues 1AM - White Horse - Treasure!!!
+- [X] 06/28/2017 - Weds 7AM - Crossing Into the USA - Ass hole border crossing agent - Sweet grass
 - [ ] 06/28/2017 - Weds 2PM - Yellow Stone - Hiking / Treasure / Crashed Hard - Alex saved me
 - [ ] 06/29/2017 - Thur - Dinner at outpost - Hike off trail down the nez perce - Mosquitos
 - [ ] 06/30/2017 - Fri - Headed Home - Huge Storm - Hid under bridge
