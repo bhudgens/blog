@@ -14,7 +14,7 @@ At least one of my flaws (gifts) is a burning passion and focus when I lock into
 
 ## How It Began
 
-I read the new constantly.  I keep up with politics and dive into technology and science publications.  This is a daily habit for me.  On one of the days in our travels I came across a headline about someone who had died in the Rocky Mountains hunting treasure.  I skimmed over the article and was mostly dismissive of the idea of **treasure**.  The people who hunt for treasure must be bored or have nothing better to do.  In the article the wife of the deceased lamented about her missing husband and how the treasure was fake.
+I read the news constantly.  I keep up with politics and dive into technology and science publications.  This is a daily habit for me.  On one of the days in our travels I came across a headline about someone who had died in the Rocky Mountains hunting treasure.  I skimmed over the article and was mostly dismissive of the idea of **treasure**.  The people who hunt for treasure must be bored or have nothing better to do.  In the article the wife of the deceased lamented about her missing husband and how the treasure was fake.
 
 Who was this awful human who gave someone false hope and lead them to their death?
 
@@ -56,32 +56,32 @@ I'll continue the story in a later post and link to it [here]().
 
 The poem is simple. Fenn has claimed countless times that all you need is the poem to find his buried treasure.  The Poem goes like this:
 
-*As I have gone alone in there
-And with my treasures bold,
-I can keep my secret where,
-And hint of riches new and old.
+*As I have gone alone in there*<br>
+*And with my treasures bold,*<br>
+*I can keep my secret where,*<br>
+*And hint of riches new and old.*
 
-Begin it where warm waters halt
-And take it in the canyon down,
-Not far, but too far to walk.
-Put in below the home of Brown.
+*Begin it where warm waters halt*<br>
+*And take it in the canyon down,*<br>
+*Not far, but too far to walk.*<br>
+*Put in below the home of Brown.*
 
-From there it’s no place for the meek,
-The end is ever drawing nigh;
-There’ll be no paddle up your creek,
-Just heavy loads and water high.
+*From there it’s no place for the meek,*<br>
+*The end is ever drawing nigh;*<br>
+*There’ll be no paddle up your creek,*<br>
+*Just heavy loads and water high.*
 
-If you’ve been wise and found the blaze,
-Look quickly down, your quest to cease,
-But tarry scant with marvel gaze,
-Just take the chest and go in peace.
+*If you’ve been wise and found the blaze,*<br>
+*Look quickly down, your quest to cease,*<br>
+*But tarry scant with marvel gaze,*<br>
+*Just take the chest and go in peace.*
 
-So why is it that I must go
-And leave my trove for all to seek?
-The answers I already know,
-I’ve done it tired, and now I’m weak.
+*So why is it that I must go*<br>
+*And leave my trove for all to seek?*<br>
+*The answers I already know,*<br>
+*I’ve done it tired, and now I’m weak.*
 
-So hear me all and listen good,
-Your effort will be worth the cold.
-If you are brave and in the wood
-I give you title to the gold.*
+*So hear me all and listen good,*<br>
+*Your effort will be worth the cold.*<br>
+*If you are brave and in the wood*<br>
+*I give you title to the gold.*
