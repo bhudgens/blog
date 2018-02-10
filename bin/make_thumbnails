@@ -12,10 +12,18 @@ for file in $(find . -type f -mindepth 1 -iname "*.jpg" | grep -v thumbnail); do
     sips -Z 450 "${THUMBNAIL_FILE}"
   fi
 done
+
+for file in $(find . -type f -mindepth 1 -iname "*.png" | grep -v thumbnail); do
+  THUMBNAIL_FILE="${file}.thumbnail.png"
+  if [ ! -f "${THUMBNAIL_FILE}" ]; then
+    cp "${file}" "${THUMBNAIL_FILE}"
+    sips -Z 450 "${THUMBNAIL_FILE}"
+  fi
+done
 popd
 
 COVERS_DIR="${DIR}/../assets/images/cover"
 
 pushd "${COVERS_DIR}"
 sips -Z 1440 *.jpg
-popd 
+popd

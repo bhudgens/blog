@@ -23,7 +23,28 @@
 - [ ] 10/29/2017 - Week 3
 - [ ] 11/05/2017 - Week 4
 
+#### We have a gap here and need to figure out what we did
 
+- [ ] 01/04/2018 - Steamboat / Musicfest
+- [ ] 01/28/2018 - Cruising for five weeks
+- [ ] 02/04/2018 - Cruising for five weeks
+- [ ] 02/11/2018 - Cruising for five weeks
+- [ ] 02/18/2018 - Cruising for five weeks
+- [ ] 02/25/2018 - Cruising for five weeks
+
+#### Things to talk about while cruising
+
+- [ ] Avoiding passengers day 1
+- [ ] Service - hit-or-miss
+- [ ] Sick People
+- [ ] Internet - Real Voom vs Fake Voom - Exclusive agreement.  
+- [ ] Normal Schedule
+
+#### Image Processing
+
+Fork the following, ES6'it up, and
+
+- https://github.com/chrisben/image-thumb
 
 # Potential Names
 
