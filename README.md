@@ -22,15 +22,28 @@
 - [ ] 10/22/2017 - Week 2
 - [ ] 10/29/2017 - Week 3
 - [ ] 11/05/2017 - Week 4
-
-#### We have a gap here and need to figure out what we did
-
+- [ ] 11/26/2017 - Week 5
+- [ ] 12/03/2017 - Week 6
 - [ ] 01/04/2018 - Steamboat / Musicfest
+- [ ] 01/12/2018 - Sick - Very sick - Throat sick
+- [ ] 01/25/2018 - Choc Emporium, Universal City Walk
 - [ ] 01/28/2018 - Cruising for five weeks
 - [ ] 02/04/2018 - Cruising for five weeks
 - [ ] 02/11/2018 - Cruising for five weeks
 - [ ] 02/18/2018 - Cruising for five weeks
 - [ ] 02/25/2018 - Cruising for five weeks
+- [ ] 03/04/2018 - Exhausted, RV Dealership, La Mesa, Downtown Disney
+- [ ] 03/09/2018 - Sold Tesla / Purchased Ford Explorer, Ultimate Werewolf
+- [ ] 03/11/2018 - Spring Break - Lots of Games - Lots of Family
+- [ ] 03/18/2018 - Ft Worth Zoo
+- [ ] 03/19/2018 - Hotel Hopping For several weeks
+- [ ] 03/22/2018 - Tattoo removal - First session
+- [ ] 04/08/2018 - Random Cruise - Did nothing - Diamond Members - Bought an RV
+- [ ] 04/15/2018 - Drove to Atlanta
+- [ ] 04/19/2018 - Purchased RV, Several Days of PDI, Etc
+- [ ] 04/26/2018 - Drive Home, Bugs, Headed to Nirv again
+- [ ] 04/28/2018 - Longhorn RV Resort, Stayed Several Days, Carter sees bus, left 2AM 5/7
+- [ ] 05/07/2018 - Nirv Dallas - Problems with no end
 
 #### Things to talk about while cruising
 
