@@ -44,6 +44,11 @@
 - [ ] 04/26/2018 - Drive Home, Bugs, Headed to Nirv again
 - [ ] 04/28/2018 - Longhorn RV Resort, Stayed Several Days, Carter sees bus, left 2AM 5/7
 - [ ] 05/07/2018 - Nirv Dallas - Problems with no end
+- [ ] 06/14/2018 - Hot Springs, AR
+- [ ] 06/18/2018 - Lake Oauchita
+- [ ] 06/21/2018 - Pizza Place
+- [ ] 06/22/2018 - Hibachi All You can eat sushi
+
 
 #### Things to talk about while cruising
 
