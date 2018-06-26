@@ -16,7 +16,7 @@
 - [ ] 08/24/2017 - Clearing Out Some Storage / Grandma donations
 - [ ] 09/04/2017 - Labor Day at the lake
 - [ ] 09/26/2017 - A month at Grandma's
-- [ ] 09/27/2017 - Raman Tasya
+- [ ] 09/27/2017 - Raman Tatsuya
 - [ ] 10/14/2017 - 11/12/2017 Cruising For a Month
 - [ ] 10/15/2017 - Week 1
 - [ ] 10/22/2017 - Week 2
@@ -37,7 +37,7 @@
 - [ ] 03/11/2018 - Spring Break - Lots of Games - Lots of Family
 - [ ] 03/18/2018 - Ft Worth Zoo
 - [ ] 03/19/2018 - Hotel Hopping For several weeks
-- [ ] 03/22/2018 - Tattoo removal - First session
+- [X] 03/22/2018 - Tattoo removal - First session
 - [ ] 04/08/2018 - Random Cruise - Did nothing - Diamond Members - Bought an RV
 - [ ] 04/15/2018 - Drove to Atlanta
 - [ ] 04/19/2018 - Purchased RV, Several Days of PDI, Etc
@@ -45,16 +45,16 @@
 - [ ] 04/28/2018 - Longhorn RV Resort, Stayed Several Days, Carter sees bus, left 2AM 5/7
 - [ ] 05/07/2018 - Nirv Dallas - Problems with no end
 - [ ] 05/17/2018 - NIRV Employee Recognition Dinner, La Hacienda
-- [ ] 05/18/2018 - Headed to OKC for a week
+- [ ] 05/18/2018 - Headed to OKC for a week - Twin Fountains RV Park
 - [ ] 05/24/2018 - Headed to Madill, OK for Memorial Day
 - [ ] 06/03/2018 - Ennis Beach
 - [ ] 06/06/2018 - Framily Night at Barbie's (pulled pork nachos)
 - [ ] 06/04/2018 - Sand Bass Festival
 - [ ] 06/09/2018 - Casey Donahew at Sand Bass Festival
 - [ ] 06/10/2018 - Back to NIRV
-- [ ] 06/12/2018 - Tattoo Removal in Austin (no sleep)
+- [ ] 06/12/2018 - Tattoo Removal in Austin (no sleep) - Second session
 - [ ] 06/13/2018 - Haircut with Chris in Temple at Alchemy Salon
-- [ ] 06/14/2018 - Hot Springs, AR
+- [ ] 06/14/2018 - Hot Springs, AR - Gulpha Gorge Campground
 - [ ] 06/18/2018 - Lake Oauchita
 - [ ] 06/21/2018 - DeLuca's Pizzeria
 - [ ] 06/22/2018 - Hibachi All You can eat sushi
