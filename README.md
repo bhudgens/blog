@@ -43,6 +43,7 @@
 - [ ] 04/19/2018 - Purchased RV, Several Days of PDI, Etc
 - [ ] 04/26/2018 - Drive Home, Bugs, Headed to Nirv again
 - [ ] 04/28/2018 - Longhorn RV Resort, Stayed Several Days, Carter sees bus, left 2AM 5/7
+- [ ] 05/05/2018 - Played Scythe with Carter at Longhorn RV Park
 - [ ] 05/07/2018 - Nirv Dallas - Problems with no end
 - [ ] 05/17/2018 - NIRV Employee Recognition Dinner, La Hacienda
 - [ ] 05/18/2018 - Headed to OKC for a week - Twin Fountains RV Park
@@ -57,6 +58,16 @@
 - [ ] 06/14/2018 - Hot Springs, AR - Gulpha Gorge Campground
 - [ ] 06/18/2018 - Lake Oauchita
 - [ ] 06/21/2018 - DeLuca's Pizzeria
+- [ ] 05/21/2018 - OKC - Boxes/Shipments???
+- [ ] 05/24/2018 - Madill, OK - Memorial Weekend
+- [ ] 06/03/2018 - Beach, Sandbass Festival, etc
+- [ ] 06/10/2018 - Back to NIRV, Inc - Quick Fixes - DOORS fixed  !
+- [ ] 06/14/2018 - Hot Springs, AR
+- [ ] 06/15/2018 - Dinner with Stovers at their house
+- [ ] 06/16/2018 - BBQ By The Creak / Putt Putt Golf
+- [ ] 06/18/2018 - Lake Oauchita
+- [ ] 06/19/2018 - Swimming in Gulpha Gorge / Stover Came By
+- [ ] 06/21/2018 - Pizza Place
 - [ ] 06/22/2018 - Hibachi All You can eat sushi
 - [ ] 06/24/2018 - Parked out front of Meow Wolf
 - [ ] 06/25/2018 - Meow Wolf and Maria's New Mexican Restaurant
